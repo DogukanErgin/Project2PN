@@ -1,0 +1,2959 @@
+{
+  "source": "synced",
+  "sourceUrl": "https://peanuts.dinosoft.com.tr/menu",
+  "generatedAt": "2026-02-07T14:29:57.813Z",
+  "totalPages": 403,
+  "totalItems": 317,
+  "topCategories": [
+    {
+      "name": "YİYECEKLER",
+      "href": "https://peanuts.dinosoft.com.tr/menu/yiyecekler-393304",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/668111_sld.jpg"
+    },
+    {
+      "name": "KAMPANYALAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar-126774",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/kampanyalar.jpg"
+    },
+    {
+      "name": "FIÇI BİRALAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/fici-biralar-102156",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/Bira-Kitiyle-Fici-Bira.jpg"
+    },
+    {
+      "name": "ŞİŞE BİRALAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sise-biralar-101259",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/biralar.jpg"
+    },
+    {
+      "name": "EŞLİKÇİLERİMİZ",
+      "href": "https://peanuts.dinosoft.com.tr/menu/eslikcilerimiz-390875",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/ykv2021haziranweb5.webp"
+    },
+    {
+      "name": "ALKOLSÜZ BİRALAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/alkolsuz-biralar-485722",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/ALKOLS%C3%9CZ.jpg"
+    },
+    {
+      "name": "KOKTEYLLER",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kokteyller-393897",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/hero.jpg"
+    },
+    {
+      "name": "GINLER",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ginler-388641",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/type-de-gin.png"
+    },
+    {
+      "name": "VODKALAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/vodkalar-388708",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/votka-nedir-votkanin-tarihi.jpg"
+    },
+    {
+      "name": "VİSKİLER",
+      "href": "https://peanuts.dinosoft.com.tr/menu/viskiler-391770",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/V%C4%B0SK%C4%B0LER.jpg"
+    },
+    {
+      "name": "RAKILAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/rakilar-105990",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/rakilar_ana_kategori_800x800.jpg"
+    },
+    {
+      "name": "ROMLAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/romlar-391683",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/ROMLAR.jpg"
+    },
+    {
+      "name": "TEQUILA'S",
+      "href": "https://peanuts.dinosoft.com.tr/menu/tequilas-391964",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/5-Types-of-Tequila-Universal.webp"
+    },
+    {
+      "name": "LİKÖRLER",
+      "href": "https://peanuts.dinosoft.com.tr/menu/likorler-393039",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/liqueur-02.webp"
+    },
+    {
+      "name": "SHOTLAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar-101261",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/shotlar.jpg"
+    },
+    {
+      "name": "ŞARAPLAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/saraplar-411847",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/pg-types-of-wine-1638010951.jpg"
+    },
+    {
+      "name": "SOĞUK KAHVELER",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-kahveler-101262",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/sogukkahveler.jpg"
+    },
+    {
+      "name": "SOĞUK İÇECEKLER",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler-101260",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/5689mesrubat-ust.jpg"
+    },
+    {
+      "name": "SICAK İÇECEKLER",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sicak-icecekler-101263",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/sicakicecekler.jpg"
+    }
+  ],
+  "items": [
+    {
+      "name": "CLAUSTHALER LİMON AROMALI",
+      "category": "ALKOLSÜZ BİRALAR",
+      "topCategory": "ALKOLSÜZ BİRALAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/alkolsuz-biralar/clausthaler-limon-aromali/485722/STK-000843",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000843.jpg"
+    },
+    {
+      "name": "CLAUSTHALER ORIGINAL",
+      "category": "ALKOLSÜZ BİRALAR",
+      "topCategory": "ALKOLSÜZ BİRALAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/alkolsuz-biralar/clausthaler-original/485722/STK-000842",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000842.jpg"
+    },
+    {
+      "name": "KARIŞIK LÜKS ÇEREZ (FINDIK, BADEM, ANTEP FISTIĞI, KAJU, FISTIK)",
+      "category": "ÇEREZLER",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺250,00",
+      "description": "20% Fındık, 20% Badem, 20% Antep Fıstığı, 20% Kaju ve 20% Fıstık karışımından oluşan karışık lüks çerezimiz günlük olarak gelmektedir.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/cerezler/karisik-luks-cerez-findik-badem-antep-fistigi-kaju-fistik/101555/STK-000150",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000150.jpg"
+    },
+    {
+      "name": "EKSTRA CHEDDAR SAUCE",
+      "category": "EXTRA SOSLAR",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺60,00",
+      "description": "Özel Cheddar Dip Olgun cheddar peyniri; süt ve krema ile ipeksi kıvama getirilir, özenle seçilmiş baharatlarla dengelenir. Sıcak servis edilen, yoğun aromalı ve akışkan dokulu özel dip sos.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/extra-soslar/ekstra-cheddar-sauce/390901/STK-000633",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000633.jpg"
+    },
+    {
+      "name": "EKSTRA SWEET CHILI SAUCE",
+      "category": "EXTRA SOSLAR",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺50,00",
+      "description": "Özel Sweet Chili Sos Tatlı ve hafif acı biberlerin dengesiyle hazırlanan, parlak dokulu ve aromatik sos. Atıştırmalıklar ve kızartmalar için ideal eşlikçi.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/extra-soslar/ekstra-sweet-chili-sauce/390901/STK-000677",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000677.jpg"
+    },
+    {
+      "name": "EXTRA BBQ SAUCE",
+      "category": "EXTRA SOSLAR",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺25,00",
+      "description": "CALVE",
+      "href": "https://peanuts.dinosoft.com.tr/menu/extra-soslar/extra-bbq-sauce/390901/STK-000720",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000720.jpg"
+    },
+    {
+      "name": "EXTRA HARDAL SAUCE",
+      "category": "EXTRA SOSLAR",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺25,00",
+      "description": "CALVE",
+      "href": "https://peanuts.dinosoft.com.tr/menu/extra-soslar/extra-hardal-sauce/390901/STK-000719",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000719.jpg"
+    },
+    {
+      "name": "MERT CHEF'İN ÖZEL AMERICAN SOSU",
+      "category": "EXTRA SOSLAR",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺50,00",
+      "description": "Mert Chef’in tarif defterinden çıkan bu özel Amerikan sos; hafif mayonez ve süzme yoğurdun yumuşak dokusunu, Amerikan hardal ve ketçap'ın lezzetiyle buluşturuyor. Elma sirkesi ve turşu suyu sosu canlandırırken, sarımsak tozu ve tuzla tat dengesi sağlanıyor. Çekilmiş fıstık ise bu sosu farklı kılan özel dokunuş.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/extra-soslar/mert-chefin-ozel-american-sosu/390901/STK-000676",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000676.jpg"
+    },
+    {
+      "name": "DİLİM PEYNİR",
+      "category": "HER YUDUMDA BIR LOKMA",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺175,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/her-yudumda-bir-lokma/dilim-peynir/392960/STK-000789",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000789.jpg"
+    },
+    {
+      "name": "YOĞURT",
+      "category": "HER YUDUMDA BIR LOKMA",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/her-yudumda-bir-lokma/yogurt/392960/STK-000788",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000788.jpg"
+    },
+    {
+      "name": "PEANUTS KABUKLU FISTIK",
+      "category": "Hizli Menu",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/hizli-menu/peanuts-kabuklu-fistik/101096/STK-000149",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/bos.png"
+    },
+    {
+      "name": "BİBERLİ YEŞİL ZEYTİN",
+      "category": "MEYVE&ŞARKÜTERİ",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺175,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/meyvesarkuteri/biberli-yesil-zeytin/390964/STK-000627",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000627.jpg"
+    },
+    {
+      "name": "IZGARA ZEYTİN",
+      "category": "MEYVE&ŞARKÜTERİ",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/meyvesarkuteri/izgara-zeytin/390964/STK-000807",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000807.jpg"
+    },
+    {
+      "name": "KRUDİT",
+      "category": "MEYVE&ŞARKÜTERİ",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/meyvesarkuteri/krudit/390964/STK-000617",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000617.jpg"
+    },
+    {
+      "name": "MEYVE TABAĞI (MEVSİM MEYVELERİ)",
+      "category": "MEYVE&ŞARKÜTERİ",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺395,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/meyvesarkuteri/meyve-tabagi-mevsim-meyveleri/390964/STK-000059",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000059.jpg"
+    },
+    {
+      "name": "PEANUTS ŞARKÜTERİ TABAĞI",
+      "category": "MEYVE&ŞARKÜTERİ",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺675,00",
+      "description": "İSLİ ÇERKEZ, KARS GRAVYER, KURU KAYISI, CEVİZ, FÜME ET, SİYAH ÜZÜM VE GRISSINI",
+      "href": "https://peanuts.dinosoft.com.tr/menu/meyvesarkuteri/peanuts-sarkuteri-tabagi/390964/STK-000696",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000696.jpg"
+    },
+    {
+      "name": "YEŞİL ELMA",
+      "category": "MEYVE&ŞARKÜTERİ",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/meyvesarkuteri/yesil-elma/390964/STK-000638",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000638.jpg"
+    },
+    {
+      "name": "ZEYTİNLİ BEYAZ LOKMA",
+      "category": "MEYVE&ŞARKÜTERİ",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺225,00",
+      "description": "Zeytinyağıyla parlatılmış peynir küpleri, biberli yeşil zeytin, taze limon suyu ve kekik dokunuşu. Pul biberle ısınır, çörek otu ile tamamlanır.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/meyvesarkuteri/zeytinli-beyaz-lokma/390964/STK-000724",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000724.jpg"
+    },
+    {
+      "name": "ÇAĞLA TURŞUSU",
+      "category": "TURŞULAR",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺175,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/tursular/cagla-tursusu/147172/STK-000630",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000630.jpg"
+    },
+    {
+      "name": "KİRAZ BİBER TURŞUSU",
+      "category": "TURŞULAR",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺175,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/tursular/kiraz-biber-tursusu/147172/STK-000790",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000790.jpg"
+    },
+    {
+      "name": "SALATALIK TURŞUSU",
+      "category": "TURŞULAR",
+      "topCategory": "EŞLİKÇİLERİMİZ",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/tursular/salatalik-tursusu/147172/STK-000611",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000611.jpg"
+    },
+    {
+      "name": "BELFAST FIÇI - 33CL",
+      "category": "BELFAST",
+      "topCategory": "FIÇI BİRALAR",
+      "price": "₺160,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/belfast/belfast-fici-33cl/476040/STK-000267",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000267.jpg"
+    },
+    {
+      "name": "BELFAST FIÇI - 50CL",
+      "category": "BELFAST",
+      "topCategory": "FIÇI BİRALAR",
+      "price": "₺190,00",
+      "description": "HAPPY HOUR!!! - HER GÜN SAAT 19:00 A KADAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/belfast/belfast-fici-50cl/476040/STK-000269",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000269.jpg"
+    },
+    {
+      "name": "EFES MALT FIÇI - 33CL",
+      "category": "EFES MALT",
+      "topCategory": "FIÇI BİRALAR",
+      "price": "₺130,00",
+      "description": "HAPPY HOUR!!! - HER GÜN SAAT 19:00 A KADAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/efes-malt/efes-malt-fici-33cl-hh/476039/STK-000276",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000276.jpg"
+    },
+    {
+      "name": "EFES MALT FIÇI - 50CL",
+      "category": "EFES MALT",
+      "topCategory": "FIÇI BİRALAR",
+      "price": "₺150,00",
+      "description": "HAPPY HOUR!!! - HER GÜN SAAT 19:00 A KADAR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/efes-malt/efes-malt-fici-50cl-hh/476039/STK-000277",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000277.jpg"
+    },
+    {
+      "name": "STELLA ARTOIS - 33CL",
+      "category": "STELLA ARTOIS",
+      "topCategory": "FIÇI BİRALAR",
+      "price": "₺185,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/stella-artois/stella-artois-33cl/476041/STK-000817",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000817.jpg"
+    },
+    {
+      "name": "STELLA ARTOIS FIÇI - 50CL",
+      "category": "STELLA ARTOIS",
+      "topCategory": "FIÇI BİRALAR",
+      "price": "₺210,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/stella-artois/stella-artois-fici-50cl/476041/STK-000816",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000816.jpg"
+    },
+    {
+      "name": "BEEFEATER GIN 70CL",
+      "category": "BEEFEATER GIN",
+      "topCategory": "GINLER",
+      "price": "₺4.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/beefeater-gin/beefeater-gin-70cl/388591/STK-000190",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000190.jpg"
+    },
+    {
+      "name": "BEEFEATER KADEH DUBLE",
+      "category": "BEEFEATER GIN",
+      "topCategory": "GINLER",
+      "price": "₺500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/beefeater-gin/beefeater-kadeh-duble/388591/STK-000675",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000675.jpg"
+    },
+    {
+      "name": "BEEFEATER KADEH TEK",
+      "category": "BEEFEATER GIN",
+      "topCategory": "GINLER",
+      "price": "₺375,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/beefeater-gin/beefeater-kadeh-tek/388591/STK-000191",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000191.jpg"
+    },
+    {
+      "name": "GORDONS 100CL",
+      "category": "GORDON'S GIN",
+      "topCategory": "GINLER",
+      "price": "₺5.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/gordons-gin/gordons-100cl/388600/STK-000294",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000294.jpg"
+    },
+    {
+      "name": "GORDONS 35CL",
+      "category": "GORDON'S GIN",
+      "topCategory": "GINLER",
+      "price": "₺2.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/gordons-gin/gordons-35cl/388600/STK-000187",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000187.jpg"
+    },
+    {
+      "name": "GORDONS 70 CL",
+      "category": "GORDON'S GIN",
+      "topCategory": "GINLER",
+      "price": "₺4.250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/gordons-gin/gordons-70-cl/388600/STK-000186",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000186.jpg"
+    },
+    {
+      "name": "GORDONS KADEH DUBLE",
+      "category": "GORDON'S GIN",
+      "topCategory": "GINLER",
+      "price": "₺650,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/gordons-gin/gordons-kadeh-duble/388600/STK-000188",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000188.jpg"
+    },
+    {
+      "name": "GORDONS KADEH TEK",
+      "category": "GORDON'S GIN",
+      "topCategory": "GINLER",
+      "price": "₺425,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/gordons-gin/gordons-kadeh-tek/388600/STK-000615",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000615.jpg"
+    },
+    {
+      "name": "GORDONS PINK 70CL",
+      "category": "GORDON'S GIN",
+      "topCategory": "GINLER",
+      "price": "₺4.750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/gordons-gin/gordons-pink-70cl/388600/STK-000206",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000206.jpg"
+    },
+    {
+      "name": "GORDONS PINK KADEH DUBLE",
+      "category": "GORDON'S GIN",
+      "topCategory": "GINLER",
+      "price": "₺750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/gordons-gin/gordons-pink-kadeh-duble/388600/STK-000208",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000208.jpg"
+    },
+    {
+      "name": "GORDONS PINK KADEH TEK",
+      "category": "GORDON'S GIN",
+      "topCategory": "GINLER",
+      "price": "₺450,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/gordons-gin/gordons-pink-kadeh-tek/388600/STK-000207",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000207.jpg"
+    },
+    {
+      "name": "HENDRICKS GIN",
+      "category": "HENDRICKS GIN",
+      "topCategory": "GINLER",
+      "price": "₺5.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/hendricks-gin/hendricks-gin/388609/STK-000195",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000195.jpg"
+    },
+    {
+      "name": "HENDRICKS KADEH DUBLE",
+      "category": "HENDRICKS GIN",
+      "topCategory": "GINLER",
+      "price": "₺1.100,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/hendricks-gin/hendricks-kadeh-duble/388609/STK-000197",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000197.jpg"
+    },
+    {
+      "name": "HENDRICKS KADEH TEK",
+      "category": "HENDRICKS GIN",
+      "topCategory": "GINLER",
+      "price": "₺600,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/hendricks-gin/hendricks-kadeh-tek/388609/STK-000196",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000196.jpg"
+    },
+    {
+      "name": "MONKEY47 50CL",
+      "category": "MONKEY 47 GIN",
+      "topCategory": "GINLER",
+      "price": "₺5.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/monkey-47-gin/monkey47-50cl/388622/STK-000198",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000198.jpg"
+    },
+    {
+      "name": "MONKEY47 KADEH DUBLE",
+      "category": "MONKEY 47 GIN",
+      "topCategory": "GINLER",
+      "price": "₺1.200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/monkey-47-gin/monkey47-kadeh-duble/388622/STK-000200",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000200.jpg"
+    },
+    {
+      "name": "MONKEY47 KADEH TEK",
+      "category": "MONKEY 47 GIN",
+      "topCategory": "GINLER",
+      "price": "₺650,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/monkey-47-gin/monkey47-kadeh-tek/388622/STK-000199",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000199.jpg"
+    },
+    {
+      "name": "BOMBAY SAPPHIRE (70CL)",
+      "category": "ÖZEL GİNLER",
+      "topCategory": "GINLER",
+      "price": "₺6.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-ginler/bombay-sapphire-70cl/413849/STK-000756",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000756.jpg"
+    },
+    {
+      "name": "TENQUERAY LONDON DRY GIN (70CL)",
+      "category": "ÖZEL GİNLER",
+      "topCategory": "GINLER",
+      "price": "₺5.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-ginler/tenqueray-london-dry-gin-70cl/413849/STK-000752",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000752.jpg"
+    },
+    {
+      "name": "TENQUERAY SEVILLA (70CL)",
+      "category": "ÖZEL GİNLER",
+      "topCategory": "GINLER",
+      "price": "₺5.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-ginler/tenqueray-sevilla-70cl/413849/STK-000753",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000753.jpg"
+    },
+    {
+      "name": "THE THREE BROTHERS BATHTUB GIN (50CL)",
+      "category": "ÖZEL GİNLER",
+      "topCategory": "GINLER",
+      "price": "₺5.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-ginler/the-three-brothers-bathtub-gin-50cl/413849/STK-000754",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000754.jpg"
+    },
+    {
+      "name": "THE THREE BROTHERS HIBISCUS & ELDERFLOWER (50CL)",
+      "category": "ÖZEL GİNLER",
+      "topCategory": "GINLER",
+      "price": "₺5.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-ginler/the-three-brothers-hibiscus-elderflower-50cl/413849/STK-000755",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000755.jpg"
+    },
+    {
+      "name": "ROKU GİN 70CL",
+      "category": "ROKU GIN",
+      "topCategory": "GINLER",
+      "price": "₺7.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/roku-gin/roku-gin-70cl/388628/STK-000554",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000554.jpg"
+    },
+    {
+      "name": "ROKU KADEH DUBLE",
+      "category": "ROKU GIN",
+      "topCategory": "GINLER",
+      "price": "₺950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/roku-gin/roku-kadeh-duble/388628/STK-000205",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000205.jpg"
+    },
+    {
+      "name": "ROKU KADEH TEK",
+      "category": "ROKU GIN",
+      "topCategory": "GINLER",
+      "price": "₺600,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/roku-gin/roku-kadeh-tek/388628/STK-000204",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000204.jpg"
+    },
+    {
+      "name": "1 DİLİM LİMONLU CHEESECAKE + MEYVE TABAĞI + 1 ŞİŞE THIA MİSKET",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺1.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/1-dilim-limonlu-cheesecake-meyve-tabagi-1-sise-thia-misket/126774/STK-000811",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000811.jpg"
+    },
+    {
+      "name": "2 ADET EFES MALT FIÇI + SMOKY CHICKEN TACO",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺725,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/2-adet-efes-malt-fici-smoky-chicken-taco/126774/STK-000812",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000812.jpg"
+    },
+    {
+      "name": "2 ADET FETTUCCİNE ALFREDO + 2 ADET EFES MALT FIÇI",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺1.150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/2-adet-fettuccine-alfredo-2-adet-efes-malt-fici/126774/STK-000813",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000813.jpg"
+    },
+    {
+      "name": "2 ADET KUZU KULAĞI PESTO FETTUCCINE + 1 ŞİŞE THIA SAUVIGNON BLANC",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺1.850,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/2-adet-kuzu-kulagi-pesto-fettuccine-1-sise-thia-sauvignon-blanc/126774/STK-000819",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000819.jpg"
+    },
+    {
+      "name": "4 ADET BOMONTI FILTRESIZ ŞİŞE + CHICKEN FINGERS",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺1.200,00",
+      "description": "CHICKEN FINGERS 4 BOMONTİ FİLTRESİZE EŞLİK EDİYOR!",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/4-adet-bomonti-filtresiz-sise-chicken-fingers/126774/STK-000655",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000655.jpg"
+    },
+    {
+      "name": "4 ADET EFES MALT ŞİŞE + BİRA SEPETİ",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺1.250,00",
+      "description": "BİRA SEPETİMİZİ DENEMENİZ İÇİN BİR FIRSAT! 4 EFES MALT İLE SERVİS EDİYORUZ.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/4-adet-efes-malt-sise-bira-sepeti/126774/STK-000634",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000634.jpg"
+    },
+    {
+      "name": "4 ADET EFES ÖZEL SERİ ŞİŞE + FRED&BARNEY",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺1.350,00",
+      "description": "SMOKY CHICKEN TACO VE PEANUTS CHEESE BURGER YANINDA 4 ADET EFES ÖZEL SERİ İLE BİRLİKTE",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/4-adet-efes-ozel-seri-sise-fredbarney/126774/STK-000654",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000654.jpg"
+    },
+    {
+      "name": "AKŞAM RAKISI",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺975,00",
+      "description": "20CL RAKI, SÜZME YOĞURT VE EZİNE BEYAZ PEYNİR İLE AKŞAM KEYFİNİZİ BAŞLATMAYA YETER",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/aksam-rakisi/126774/STK-000715",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000715.jpg"
+    },
+    {
+      "name": "APEROL DENEMEYEN VAR MI?",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺1.050,00",
+      "description": "SEÇECEĞİNİZ ÇAĞLA VEYA SALATALIK TURŞUSU İLE TUZLU FISTIK 2 APEROL SPRITZ'E EŞLİK EDECEK!",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/aperol-denemeyen-var-mi/126774/STK-000657",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000657.jpg"
+    },
+    {
+      "name": "AZURE GARDEN + 2 ADET MILLER ŞİŞE",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/azure-garden-2-adet-miller-sise/126774/STK-000814",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000814.jpg"
+    },
+    {
+      "name": "BELFAST BAVYERA - 100 CL (TURŞU VE KABUKLU FISTIK İLE SERVİS EDİLİR...)",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺395,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/belfast-bavyera-100-cl-tursu-ve-kabuklu-fistik-ile-servis-edilir/126774/STK-000270",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000270.jpg"
+    },
+    {
+      "name": "BEYAZ İKİLİ - PEYNİR(AKŞAM RAKISI)",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺975,00",
+      "description": "20CL RAKI VE EZİNE BEYAZ PEYNİR İLE AKŞAM KEYFİNİZİ BAŞLATMAYA YETER",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/beyaz-ikili-peynir-aksam-rakisi/126774/STK-000714",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000714.jpg"
+    },
+    {
+      "name": "BEYAZ İKİLİ - YOĞURT(AKŞAM RAKISI)",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺975,00",
+      "description": "20CL RAKI VE SÜZME YOĞURT İLE AKŞAM KEYFİNİZİ BAŞLATMAYA YETER",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/beyaz-ikili-yogurt-aksam-rakisi/126774/STK-000713",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000713.jpg"
+    },
+    {
+      "name": "DİLEDİĞİNİZ 1 BURGER YANINDA 1 ADET EFES MALT FIÇI 10TL",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺10,00",
+      "description": "12:00 - 19:00 SAATLERİ ARASINDA VE TÜM HAMBURGER ÇEŞİTLERİNDE GEÇERLİDİR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/dilediginiz-1-burger-yaninda-1-adet-efes-malt-fici-10tl/126774/STK-000804",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000804.jpg"
+    },
+    {
+      "name": "EFES MALT BAVYERA - 100CL (TURŞU VE KABUKLU FISTIK İLE SERVİS EDİLİR...)",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺350,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/efes-malt-bavyera-100cl-tursu-ve-kabuklu-fistik-ile-servis-edilir/126774/STK-000278",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000278.jpg"
+    },
+    {
+      "name": "İYİ Kİ DOĞDUN!",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺950,00",
+      "description": "DOĞUM GÜNLERİ İÇİN İSTEDİĞİNİZ TATLI VE İKİ KİŞİLİK SEÇECEĞİNİZ KOKTEYL İLE BİRLİKTE! (MUM VAR MERAK ETMEYİN :))",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/iyi-ki-dogdun/126774/STK-000658",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000658.jpg"
+    },
+    {
+      "name": "MAHŞERİN 5 ŞATLISI",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺1.025,00",
+      "description": "1.250TL yerine 1025TL(OLMECA TEKILA, ABSOLUT VODKA, JAGERMEISTER, GORDONS GIN, JACK DANIELS İLE MAHŞERDEN ÖNCEKİ SON ŞATLAR :)",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/mahserin-5-satlisi/126774/STK-000656",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000656.jpg"
+    },
+    {
+      "name": "MARGHERITA PIZZA + 1 ŞİŞE RİTUEL ÇALKARASI - SHIRAZ",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺1.200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/margherita-pizza-1-sise-rituel-calkarasi-shiraz/126774/STK-000808",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000808.jpg"
+    },
+    {
+      "name": "SMOKY CHICKEN TACO + 1 ŞİŞE THIA MERLOT",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺1.850,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/smoky-chicken-taco-1-sise-thia-merlot/126774/STK-000809",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000809.jpg"
+    },
+    {
+      "name": "SMOKY CHICKEN TACO + 2 KADEH MARGARITA KOKTEYL",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺1.200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/smoky-chicken-taco-2-kadeh-margarita-kokteyl/126774/STK-000810",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000810.jpg"
+    },
+    {
+      "name": "STELLA ARTOIS BAVYERA - 100CL (TURŞU VE KABUKLU FISTIK İLE SERVİS EDİLİR...)",
+      "category": "KAMPANYALAR",
+      "topCategory": "KAMPANYALAR",
+      "price": "₺425,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/stella-artois-bavyera-100cl-tursu-ve-kabuklu-fistik-ile-servis-edilir/126774/STK-000818",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000818.jpg"
+    },
+    {
+      "name": "AMARETTO SOUR",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "İtalya'nın badem kokulu ruhunu taşıyan Amaretto likörü, limonun canlı ekşiliğiyle buluşur. Hafif tatlı, hafif buruk… ama daima dengeli. İsteğe göre yumurta akısıyla zenginleşen dokusu, içkinin her yudumunda kadifemsi bir his bırakır. Amaretto Sour, nostaljik bir akşamı tatlı bir sırla taçlandırmak gibidir.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/amaretto-sour/101107/STK-000063",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000063.jpg"
+    },
+    {
+      "name": "APEROL SPRITZ",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺475,00",
+      "description": "İtalya’nın güneşli piazzalarında doğan bu hafif ve canlandırıcı karışım, Aperol’un tatlı-ekşi notaları, prosecco ve soda suyunun zarif buluşmasıdır. Her yudumda Akdeniz’in neşesi ve yazın hafifliği hissedilir.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/aperol-spritz/101107/STK-000078",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000078.jpg"
+    },
+    {
+      "name": "BAILEYS COFFE",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Sıcak kahvenin samimiyeti, Baileys’in kremamsı tatlılığıyla buluşuyor. Soğuk akşamlarda iç ısıtan, yumuşak ve zengin aromalı bir keyif anı. Kahve ve likörün en tatlı uyumu.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/baileys-coffe/101107/STK-000073",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000073.jpg"
+    },
+    {
+      "name": "BRAMBLE",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "1980’lerin Londra’sında doğan bu modern klasik, ormanda yürürken avucunuza düşen böğürtlenin sürprizi gibi… Cin’in ferahlığı, taze limonun canlılığı ve böğürtlen likörünün derin meyvemsi dokunuşuyla harmanlanır. Renkli, zarif ve ferahlatıcı — Bramble, şehirli bir yaz gününün yaban tadıdır.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/bramble/101107/STK-000064",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000064.jpg"
+    },
+    {
+      "name": "CLASSİC MARTINI",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Soğuk ve saf, zamanın ötesinde bir ikon. Cin ve kuru vermutun kusursuz dengesiyle hazırlanır, zeytin ya da limon kabuğuyla taçlandırılır. Jazz barlarının karanlığında, zarif bir sohbetin eşlikçisi olarak doğan Martini, sade ama unutulmaz bir stil simgesidir.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/classic-martini/101107/STK-000068",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000068.jpg"
+    },
+    {
+      "name": "CUBA LIBRE",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Küba’nın özgür ruhunu yansıtan bu klasik karışım, beyaz rom, taze lime suyu ve kola ile hayat bulur. Basit ama enerjik, her yudumda tropik bir özgürlük hissi taşır.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/cuba-libre/101107/STK-000077",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000077.jpg"
+    },
+    {
+      "name": "DAIQUIRI",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Küba’nın güneşli sahillerinden doğan bu zarif karışım, taze lime suyu, beyaz rom ve şekerin basit ama kusursuz uyumuyla hazırlanır. Her yudumda tropikal bir esinti ve hafif bir serinlik hissi taşır.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/daiquiri/101107/STK-000075",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000075.jpg"
+    },
+    {
+      "name": "ESPRESSO MARTINI",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Geceye enerjik bir dokunuş… Taze çekilmiş espresso, vodka ve kahve likörünün mükemmel uyumu, uykusuz gecelerin en şık kurtarıcısıdır. Yoğun aromasıyla hem kahve hem kokteyl tutkunlarının favorisi.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/espresso-martini/101107/STK-000071",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000071.jpg"
+    },
+    {
+      "name": "HOT TODY",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Sisli bir İskoç akşamında doğan klasik… Balın doğallığı, limonun tazeliği ve baharatların sıcak nefesi, bir damla viskiyle buluşur. Soğuğu dışarıda, huzuru içinde bırakır. Her yudumda dağlardan esen rüzgârı hissedersin.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/hot-tody/101107/STK-000698",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000698.jpg"
+    },
+    {
+      "name": "HÖNÖNÖ",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺495,00",
+      "description": "VOTKA, CİN, ARCHERS VE SODA İLE HAZIRLANIR. GENİŞ BARDAKTA SERVİS EDİLİR, MASAYA VURULDUĞUNDA KÖPÜRÜR VE TEREDDÜTSÜZ TEK YUDUMDA İÇİLİR.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/honono/101107/STK-000782",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000782.jpg"
+    },
+    {
+      "name": "IRISH COFFE",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Sıcak kahve, İrlanda viskisi ve tatlı kremanın buluştuğu efsanevi karışım. Soğuk havalarda ruhu ısıtan, her yudumda gelenek ve konfor hissi veren klasik bir keyif.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/irish-coffe/101107/STK-000074",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000074.jpg"
+    },
+    {
+      "name": "JAGER BOMB",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/jager-bomb/101107/STK-000725",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000725.jpg"
+    },
+    {
+      "name": "LONG ISLAND ICED TEA",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Amerika’nın uzun gecelerinin enerjisini bardakta toplar. Beş farklı ruhun (vodka, gin, rom, tekila, triple sec) cesur birleşimi, hafif kola dokunuşuyla tamamlanır. Yoğun ve hareketli, unutulmaz bir partinin başrol oyuncusudur.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/long-island-iced-tea/101107/STK-000070",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000070.jpg"
+    },
+    {
+      "name": "MANHATTAN",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "New York gecelerinin asaletiyle doğdu; kadife perdeli barlarda, ağır adımlarla içilen bir klasik oldu. Çavdar viskisi ya da bourbon, kırmızı vermut ve birkaç damla Angostura bitters ile harmanlanır. Kirazla süslenen bu koyu ve derin içki, centilmen bir sessizlik gibi bardakta durur — Manhattan, geçmişin şıklığını bugüne taşıyan bir imzadır.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/manhattan/101107/STK-000067",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000067.jpg"
+    },
+    {
+      "name": "MARGARITA",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Bir efsaneye göre bir aşk hikâyesiyle doğdu; tuzla kenarları çizilmiş bir bardakta sunulan bu kokteyl, Meksika güneşinin altında hayat buldu. Tekila’nın cesareti, lime’ın keskinliği ve triple sec’in narin tatlılığıyla birleşir. Hem ferah, hem iddialı — Margarita, sınır tanımayan bir yaz hayalidir.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/margarita/101107/STK-000066",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000066.jpg"
+    },
+    {
+      "name": "MOJITO",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Küba’nın sıcak sokaklarında doğan bu klasik, serinliğiyle yıllardır yaz akşamlarına eşlik ediyor. Nane yapraklarının tazeliği, lime’ın canlılığı ve beyaz romun hafifliğiyle birleşir; bir tutam esmer şeker ve köpüren soda ile hayat bulur. Mojito, sadece bir içki değil, tropik bir esinti, hafif bir kaçış.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/mojito/101107/STK-000061",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000061.jpg"
+    },
+    {
+      "name": "MOSCOW MULE",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Bakır kupada servis edilen bu ferahlatıcı klasik, votka, zencefilli gazoz ve taze lime suyunun canlı birleşimiyle doğar. Soğuk, hafif baharatlı ve yaz akşamlarının vazgeçilmezi.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/moscow-mule/101107/STK-000076",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000076.jpg"
+    },
+    {
+      "name": "NEGRONI",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "İtalyan zarafetinin kırmızı bir yansıması… Eşit ölçüde cin, kırmızı vermut ve Campari’nin birleşimiyle hazırlanan Negroni, keskin ve dengeli acılığıyla klasiklerin vazgeçilmezi. Portakal kabuğunun aromasıyla tamamlanır, her yudumda Akdeniz’in sıcaklığını hissettirir.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/negroni/101107/STK-000072",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000072.jpg"
+    },
+    {
+      "name": "OLD FASHIONED",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Bir zamanların en sade ama en sofistike karışımı… Şeker, bitter ve kaliteli bir bourbon ya da çavdar viskiyle hazırlanan bu kokteyl, 1800’lerden günümüze kadar zarafetini hiç kaybetmedi. Turunç kabuğunun hafif dokunuşuyla son halini alan Old Fashioned, klasiklerin neden asla eskimediğini hatırlatır.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/old-fashioned/101107/STK-000065",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000065.jpg"
+    },
+    {
+      "name": "PORNSTAR MARTINI",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Enerjik ve cesur bir lezzet deneyimi. Tutkulu vanilya likörü ve tropik passion fruit’un birleşimi, yanında buz gibi şampanya ile servis edilir. Gecenin ışıltısını yansıtan, unutulmaz bir tutkudur.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/pornstar-martini/101107/STK-000069",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000069.jpg"
+    },
+    {
+      "name": "WHISKEY SOUR",
+      "category": "DÜNYA KOKTEYLLERİ",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺425,00",
+      "description": "Bir zamanlar Amerikan barlarının loş ışığında, sert içkilerin zarif yorumunu arayanlar için doğdu. Bourbon’un gücü, taze limonun keskinliğiyle yumuşar, şekerle dengelenir. Dilerseniz yumurta akıyla ipeksi bir dokunuşa kavuşur. Her yudumunda geçmişin zarafeti, bugünün dengesi saklı.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/dunya-kokteylleri/whiskey-sour/101107/STK-000062",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000062.jpg"
+    },
+    {
+      "name": "By Z",
+      "category": "SİGNATURE KOKTEYLLER",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺475,00",
+      "description": "SALATALIK VE BEZELYENİN UYUMU GORDONS LİMON İLE BİRLEŞİYOR",
+      "href": "https://peanuts.dinosoft.com.tr/menu/signature-kokteyller/by-z/101198/STK-000792",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/bos.png"
+    },
+    {
+      "name": "CITRUS MEZCAL",
+      "category": "SİGNATURE KOKTEYLLER",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺475,00",
+      "description": "CASAMIGOS MEZCALİN TEKİLA VE GREYFURT İLE TUZLU BİRLEŞİMİ",
+      "href": "https://peanuts.dinosoft.com.tr/menu/signature-kokteyller/citrus-mezcal/101198/STK-000800",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/bos.png"
+    },
+    {
+      "name": "HELIOS GLOW",
+      "category": "SİGNATURE KOKTEYLLER",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺475,00",
+      "description": "SMIRNOFF NORTH VE MALIBUNUN IŞILTISI",
+      "href": "https://peanuts.dinosoft.com.tr/menu/signature-kokteyller/helios-glow/101198/STK-000798",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/bos.png"
+    },
+    {
+      "name": "HOT PASSION",
+      "category": "SİGNATURE KOKTEYLLER",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺475,00",
+      "description": "ACI BİBER INFÜZYON ROM İLE ÇARKIFELEK MEYVESİNİN ACI TATLI UYUMU",
+      "href": "https://peanuts.dinosoft.com.tr/menu/signature-kokteyller/hot-passion/101198/STK-000794",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/bos.png"
+    },
+    {
+      "name": "RED PLUM",
+      "category": "SİGNATURE KOKTEYLLER",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺475,00",
+      "description": "JAMESON APEROL VE KIRMIZI ERİKTEN CANLI BİR UYUM",
+      "href": "https://peanuts.dinosoft.com.tr/menu/signature-kokteyller/red-plum/101198/STK-000801",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/bos.png"
+    },
+    {
+      "name": "RUBY FIRE",
+      "category": "SİGNATURE KOKTEYLLER",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺495,00",
+      "description": "JACK, NAR VE TARÇININ ATEŞLİ OYUNU",
+      "href": "https://peanuts.dinosoft.com.tr/menu/signature-kokteyller/ruby-fire/101198/STK-000799",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/bos.png"
+    },
+    {
+      "name": "SMOKEY",
+      "category": "SİGNATURE KOKTEYLLER",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺495,00",
+      "description": "BLACK LABEL VE MANGONUN KARAKTERİSTİK BİRLEŞİMİ",
+      "href": "https://peanuts.dinosoft.com.tr/menu/signature-kokteyller/smokey/101198/STK-000797",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/bos.png"
+    },
+    {
+      "name": "SORREL",
+      "category": "SİGNATURE KOKTEYLLER",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺475,00",
+      "description": "VOTKA, KUZU KULAĞI VE LİMONCELLO'NUN UYUMU",
+      "href": "https://peanuts.dinosoft.com.tr/menu/signature-kokteyller/sorrel/101198/STK-000796",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/bos.png"
+    },
+    {
+      "name": "SOUND",
+      "category": "SİGNATURE KOKTEYLLER",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺475,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/signature-kokteyller/sound/101198/STK-000795",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/bos.png"
+    },
+    {
+      "name": "WHISPER",
+      "category": "SİGNATURE KOKTEYLLER",
+      "topCategory": "KOKTEYLLER",
+      "price": "₺475,00",
+      "description": "GORDONS PİNK VE BERGAMOTUN HIBISCUS İLE AHENGİ",
+      "href": "https://peanuts.dinosoft.com.tr/menu/signature-kokteyller/whisper/101198/STK-000793",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/bos.png"
+    },
+    {
+      "name": "ABSOLUT RASPBERRY KADEH DOUBLE",
+      "category": "ABSOLUT",
+      "topCategory": "LİKÖRLER",
+      "price": "₺600,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/absolut/absolut-raspberry-kadeh-double/393040/STK-000762",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000762.jpg"
+    },
+    {
+      "name": "ABSOLUT RASPBERRY KADEH TEK",
+      "category": "ABSOLUT",
+      "topCategory": "LİKÖRLER",
+      "price": "₺475,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/absolut/absolut-raspberry-kadeh-tek/393040/STK-000599",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000599.jpg"
+    },
+    {
+      "name": "ABSOLUT VANILYA KADEH TEK",
+      "category": "ABSOLUT",
+      "topCategory": "LİKÖRLER",
+      "price": "₺475,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/absolut/absolut-vanilya-kadeh-tek/393040/STK-000605",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000605.jpg"
+    },
+    {
+      "name": "ABSOLUT VANİLYA KADEH DOUBLE",
+      "category": "ABSOLUT",
+      "topCategory": "LİKÖRLER",
+      "price": "₺600,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/absolut/absolut-vanilya-kadeh-double/393040/STK-000761",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000761.jpg"
+    },
+    {
+      "name": "ARCHERS KADEH",
+      "category": "ARCHERS",
+      "topCategory": "LİKÖRLER",
+      "price": "₺485,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/archers/archers-kadeh/393042/STK-000244",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000244.jpg"
+    },
+    {
+      "name": "BAILEYS KADEH TEK",
+      "category": "BAILEYS",
+      "topCategory": "LİKÖRLER",
+      "price": "₺450,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/baileys/baileys-kadeh-tek/393043/STK-000606",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000606.jpg"
+    },
+    {
+      "name": "CHAMBORD KADEH DOUBLE",
+      "category": "CHAMBORD",
+      "topCategory": "LİKÖRLER",
+      "price": "₺675,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/chambord/chambord-kadeh-double/393051/STK-000726",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000726.jpg"
+    },
+    {
+      "name": "CHAMBORD KADEH TEK",
+      "category": "CHAMBORD",
+      "topCategory": "LİKÖRLER",
+      "price": "₺450,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/chambord/chambord-kadeh-tek/393051/STK-000577",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000577.jpg"
+    },
+    {
+      "name": "COINTREAU KADEH TEK",
+      "category": "COINTREAU",
+      "topCategory": "LİKÖRLER",
+      "price": "₺350,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/cointreau/cointreau-kadeh-tek/393052/STK-000607",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000607.jpg"
+    },
+    {
+      "name": "AMARETTO KADEH TEK",
+      "category": "DISARONNO",
+      "topCategory": "LİKÖRLER",
+      "price": "₺490,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/disaronno/amaretto-kadeh-tek/393041/STK-000593",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000593.jpg"
+    },
+    {
+      "name": "JAGERMEISTER 100CL",
+      "category": "JAGERMEISTER",
+      "topCategory": "LİKÖRLER",
+      "price": "₺6.250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/jagermeister/jagermeister-100cl/393054/STK-000659",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000659.jpg"
+    },
+    {
+      "name": "JAGERMEISTER 35 CL",
+      "category": "JAGERMEISTER",
+      "topCategory": "LİKÖRLER",
+      "price": "₺2.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/jagermeister/jagermeister-35-cl/393054/STK-000680",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000680.jpg"
+    },
+    {
+      "name": "JAGERMEISTER KADEH DOUBLE",
+      "category": "JAGERMEISTER",
+      "topCategory": "LİKÖRLER",
+      "price": "₺500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/jagermeister/jagermeister-kadeh-double/393054/STK-000580",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000580.jpg"
+    },
+    {
+      "name": "JAGERMEISTER KADEH TEK",
+      "category": "JAGERMEISTER",
+      "topCategory": "LİKÖRLER",
+      "price": "₺300,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/jagermeister/jagermeister-kadeh-tek/393054/STK-000592",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000592.jpg"
+    },
+    {
+      "name": "JAGERMEİSTER 70CL",
+      "category": "JAGERMEISTER",
+      "topCategory": "LİKÖRLER",
+      "price": "₺4.750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/jagermeister/jagermeister-70cl/393054/STK-000781",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000781.jpg"
+    },
+    {
+      "name": "KAHLUA KADEH TEK",
+      "category": "KAHLUA",
+      "topCategory": "LİKÖRLER",
+      "price": "₺400,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kahlua/kahlua-kadeh-tek/393055/STK-000601",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000601.jpg"
+    },
+    {
+      "name": "MALIBU KADEH",
+      "category": "MALIBU",
+      "topCategory": "LİKÖRLER",
+      "price": "₺420,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/malibu/malibu-kadeh/393056/STK-000596",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000596.jpg"
+    },
+    {
+      "name": "MARTINI BIANCO KADEH",
+      "category": "MARTINI",
+      "topCategory": "LİKÖRLER",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/martini/martini-bianco-kadeh/393057/STK-000609",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000609.jpg"
+    },
+    {
+      "name": "MARTINI EKSTRA DRY KADEH",
+      "category": "MARTINI",
+      "topCategory": "LİKÖRLER",
+      "price": "₺470,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/martini/martini-ekstra-dry-kadeh/393057/STK-000579",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000579.jpg"
+    },
+    {
+      "name": "PASSOA KADEH TEK",
+      "category": "PASSOA",
+      "topCategory": "LİKÖRLER",
+      "price": "₺400,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/passoa/passoa-kadeh-tek/393058/STK-000603",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000603.jpg"
+    },
+    {
+      "name": "SKINOS KADEH DOUBLE",
+      "category": "SKINOS",
+      "topCategory": "LİKÖRLER",
+      "price": "₺750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/skinos/skinos-kadeh-double/393066/STK-000727",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000727.jpg"
+    },
+    {
+      "name": "SKINOS KADEH TEK",
+      "category": "SKINOS",
+      "topCategory": "LİKÖRLER",
+      "price": "₺500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/skinos/skinos-kadeh-tek/393066/STK-000597",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000597.jpg"
+    },
+    {
+      "name": "SMIRNOFF NORTH KADEH TEK",
+      "category": "SMIRNOFF",
+      "topCategory": "LİKÖRLER",
+      "price": "₺300,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/smirnoff/smirnoff-north-kadeh-tek/393068/STK-000590",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000590.jpg"
+    },
+    {
+      "name": "DOUBLE RAKI 8CL",
+      "category": "KADEH RAKILAR",
+      "topCategory": "RAKILAR",
+      "price": "₺450,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-rakilar/double-raki-8cl/417069/STK-000635",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000635.jpg"
+    },
+    {
+      "name": "TEK RAKI 4CL",
+      "category": "KADEH RAKILAR",
+      "topCategory": "RAKILAR",
+      "price": "₺275,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-rakilar/tek-raki-4cl/417069/STK-000636",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000636.jpg"
+    },
+    {
+      "name": "MERCAN RAKI (35 CC)",
+      "category": "MERCAN RAKI",
+      "topCategory": "RAKILAR",
+      "price": "₺1.750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/mercan-raki/mercan-raki-35-cc/417061/STK-000716",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000716.jpg"
+    },
+    {
+      "name": "MERCAN RAKI (70CC)",
+      "category": "MERCAN RAKI",
+      "topCategory": "RAKILAR",
+      "price": "₺3.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/mercan-raki/mercan-raki-70cc/417061/STK-000717",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000717.jpg"
+    },
+    {
+      "name": "TEKİRDAĞ ALTIN SERİSİ 100CL",
+      "category": "TEKİRDAĞ RAKI",
+      "topCategory": "RAKILAR",
+      "price": "₺4.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/tekirdag-raki/tekirdag-altin-serisi-100cl/417125/STK-000768",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000768.jpg"
+    },
+    {
+      "name": "TEKİRDAĞ ALTIN SERİSİ 35CL",
+      "category": "TEKİRDAĞ RAKI",
+      "topCategory": "RAKILAR",
+      "price": "₺2.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/tekirdag-raki/tekirdag-altin-serisi-35cl/417125/STK-000770",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000770.jpg"
+    },
+    {
+      "name": "TEKİRDAĞ ALTIN SERİSİ 70CL",
+      "category": "TEKİRDAĞ RAKI",
+      "topCategory": "RAKILAR",
+      "price": "₺3.400,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/tekirdag-raki/tekirdag-altin-serisi-70cl/417125/STK-000769",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000769.jpg"
+    },
+    {
+      "name": "YENİ RAKI 100CL",
+      "category": "YENİ RAKI",
+      "topCategory": "RAKILAR",
+      "price": "₺3.700,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/yeni-raki/yeni-raki-100cl/417127/STK-000773",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000773.jpg"
+    },
+    {
+      "name": "YENİ RAKI 20CL",
+      "category": "YENİ RAKI",
+      "topCategory": "RAKILAR",
+      "price": "₺800,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/yeni-raki/yeni-raki-20cl/417127/STK-000777",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000777.jpg"
+    },
+    {
+      "name": "YENİ RAKI 35CL",
+      "category": "YENİ RAKI",
+      "topCategory": "RAKILAR",
+      "price": "₺2.300,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/yeni-raki/yeni-raki-35cl/417127/STK-000772",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000772.jpg"
+    },
+    {
+      "name": "YENİ RAKI 70CL",
+      "category": "YENİ RAKI",
+      "topCategory": "RAKILAR",
+      "price": "₺3.200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/yeni-raki/yeni-raki-70cl/417127/STK-000771",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000771.jpg"
+    },
+    {
+      "name": "BACARDI SPICE 70L",
+      "category": "BACARDI ROM",
+      "topCategory": "ROMLAR",
+      "price": "₺5.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/bacardi-rom/bacardi-spice-70l/391684/STK-000257",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000257.jpg"
+    },
+    {
+      "name": "CAPTAIN MORGAN WHITE 70CL",
+      "category": "CAPTAIN MORGAN",
+      "topCategory": "ROMLAR",
+      "price": "₺4.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/captain-morgan/captain-morgan-white-70cl/416268/STK-000763",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000763.jpg"
+    },
+    {
+      "name": "HAVANA CLUB 7 ANOS",
+      "category": "HAVANA CLUB ROM",
+      "topCategory": "ROMLAR",
+      "price": "₺6.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/havana-club-rom/havana-club-7-anos/391701/STK-000254",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000254.jpg"
+    },
+    {
+      "name": "BACARDI SPICE KADEH DUBLE",
+      "category": "KADEH ROMLAR",
+      "topCategory": "ROMLAR",
+      "price": "₺650,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-romlar/bacardi-spice-kadeh-duble/418340/STK-000259",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000259.jpg"
+    },
+    {
+      "name": "BACARDI SPICE KADEH TEK",
+      "category": "KADEH ROMLAR",
+      "topCategory": "ROMLAR",
+      "price": "₺400,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-romlar/bacardi-spice-kadeh-tek/418340/STK-000258",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000258.jpg"
+    },
+    {
+      "name": "CAPTAIN MORGAN WHITE KADEH DOUBLE",
+      "category": "KADEH ROMLAR",
+      "topCategory": "ROMLAR",
+      "price": "₺800,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-romlar/captain-morgan-white-kadeh-double/418340/STK-000765",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000765.jpg"
+    },
+    {
+      "name": "CAPTAIN MORGAN WHITE KADEH TEK",
+      "category": "KADEH ROMLAR",
+      "topCategory": "ROMLAR",
+      "price": "₺400,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-romlar/captain-morgan-white-kadeh-tek/418340/STK-000764",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000764.jpg"
+    },
+    {
+      "name": "HAVANA CLUB 7 ANOS KADEH DUBLE",
+      "category": "KADEH ROMLAR",
+      "topCategory": "ROMLAR",
+      "price": "₺670,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-romlar/havana-club-7-anos-kadeh-duble/418340/STK-000256",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000256.jpg"
+    },
+    {
+      "name": "HAVANA CLUB 7 ANOS KADEH TEK",
+      "category": "KADEH ROMLAR",
+      "topCategory": "ROMLAR",
+      "price": "₺400,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-romlar/havana-club-7-anos-kadeh-tek/418340/STK-000255",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000255.jpg"
+    },
+    {
+      "name": "ZACAPA KADEH DUBLE",
+      "category": "KADEH ROMLAR",
+      "topCategory": "ROMLAR",
+      "price": "₺850,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-romlar/zacapa-kadeh-duble/418340/STK-000262",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000262.jpg"
+    },
+    {
+      "name": "ZACAPA KADEH TEK",
+      "category": "KADEH ROMLAR",
+      "topCategory": "ROMLAR",
+      "price": "₺500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-romlar/zacapa-kadeh-tek/418340/STK-000261",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000261.jpg"
+    },
+    {
+      "name": "ZACAPA 70CL",
+      "category": "ZACAPA ROM",
+      "topCategory": "ROMLAR",
+      "price": "₺7.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/zacapa-rom/zacapa-70cl/391702/STK-000260",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000260.jpg"
+    },
+    {
+      "name": "ABSOLUT VANILIA SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/absolut-vanilia-shot/101261/STK-000235",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000235.jpg"
+    },
+    {
+      "name": "ABSOLUT VODKA SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/absolut-vodka-shot/101261/STK-000142",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000142.jpg"
+    },
+    {
+      "name": "AMARETTO SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺240,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/amaretto-shot/101261/STK-000241",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000241.jpg"
+    },
+    {
+      "name": "B52",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺375,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/b52/101261/STK-000699",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000699.jpg"
+    },
+    {
+      "name": "BAILEYS SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/baileys-shot/101261/STK-000239",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000239.jpg"
+    },
+    {
+      "name": "BAILEYS SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/baileys-shot/101261/STK-000146",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000146.jpg"
+    },
+    {
+      "name": "BLACK LABEL SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/black-label-shot/101261/STK-000758",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000758.jpg"
+    },
+    {
+      "name": "CASAMIGOS BLANCO TEKİLA SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺300,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/casamigos-blanco-tekila-shot/101261/STK-000650",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000650.jpg"
+    },
+    {
+      "name": "CHIVAS SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺275,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/chivas-shot/101261/STK-000583",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000583.jpg"
+    },
+    {
+      "name": "COINTREAU SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/cointreau-shot/101261/STK-000263",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000263.jpg"
+    },
+    {
+      "name": "GORDONS SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/gordons-shot/101261/STK-000189",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000189.jpg"
+    },
+    {
+      "name": "JACK DANIELS SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/jack-daniels-shot/101261/STK-000581",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000581.jpg"
+    },
+    {
+      "name": "JACK FIRE - FIREBALL",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/jack-fire-fireball/101261/STK-000708",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000708.jpg"
+    },
+    {
+      "name": "JAGERMEISTER SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/jagermeister-shot/101261/STK-000143",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000143.jpg"
+    },
+    {
+      "name": "KAHLUA SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/kahlua-shot/101261/STK-000234",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000234.jpg"
+    },
+    {
+      "name": "MALIBU SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺210,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/malibu-shot/101261/STK-000232",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000232.jpg"
+    },
+    {
+      "name": "MARTINI EKSTRA DRY SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺260,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/martini-ekstra-dry-shot/101261/STK-000227",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000227.jpg"
+    },
+    {
+      "name": "OLMECA SILVER SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/olmeca-silver-shot/101261/STK-000545",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000545.jpg"
+    },
+    {
+      "name": "OLMECA TEKILA SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/olmeca-tekila-shot/101261/STK-000141",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000141.jpg"
+    },
+    {
+      "name": "PASSOA SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/passoa-shot/101261/STK-000243",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000243.jpg"
+    },
+    {
+      "name": "SKINOS SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/skinos-shot/101261/STK-000144",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000144.jpg"
+    },
+    {
+      "name": "SMIRNOFF NORTH SHOT",
+      "category": "SHOTLAR",
+      "topCategory": "SHOTLAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/shotlar/smirnoff-north-shot/101261/STK-000145",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000145.jpg"
+    },
+    {
+      "name": "AMERICANO",
+      "category": "SICAK İÇECEKLER",
+      "topCategory": "SICAK İÇECEKLER",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sicak-icecekler/americano/101263/STK-000130",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000130.jpg"
+    },
+    {
+      "name": "CARAMEL MACCHİATO",
+      "category": "SICAK İÇECEKLER",
+      "topCategory": "SICAK İÇECEKLER",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sicak-icecekler/caramel-macchiato/101263/STK-000134",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000134.jpg"
+    },
+    {
+      "name": "ÇAY",
+      "category": "SICAK İÇECEKLER",
+      "topCategory": "SICAK İÇECEKLER",
+      "price": "₺80,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sicak-icecekler/cay/101263/STK-000127",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000127.jpg"
+    },
+    {
+      "name": "ESPRESSO",
+      "category": "SICAK İÇECEKLER",
+      "topCategory": "SICAK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sicak-icecekler/espresso/101263/STK-000132",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000132.jpg"
+    },
+    {
+      "name": "ESPRESSO DOUBLE",
+      "category": "SICAK İÇECEKLER",
+      "topCategory": "SICAK İÇECEKLER",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sicak-icecekler/espresso-double/101263/STK-000587",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000587.jpg"
+    },
+    {
+      "name": "FİNCAN ÇAY",
+      "category": "SICAK İÇECEKLER",
+      "topCategory": "SICAK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sicak-icecekler/fincan-cay/101263/STK-000128",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000128.jpg"
+    },
+    {
+      "name": "LATTE",
+      "category": "SICAK İÇECEKLER",
+      "topCategory": "SICAK İÇECEKLER",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sicak-icecekler/latte/101263/STK-000131",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000131.jpg"
+    },
+    {
+      "name": "MOCHA",
+      "category": "SICAK İÇECEKLER",
+      "topCategory": "SICAK İÇECEKLER",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sicak-icecekler/mocha/101263/STK-000133",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000133.jpg"
+    },
+    {
+      "name": "TÜRK KAHVESİ",
+      "category": "SICAK İÇECEKLER",
+      "topCategory": "SICAK İÇECEKLER",
+      "price": "₺100,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sicak-icecekler/turk-kahvesi/101263/STK-000129",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000129.jpg"
+    },
+    {
+      "name": "TÜRK KAHVESİ DOUBLE",
+      "category": "SICAK İÇECEKLER",
+      "topCategory": "SICAK İÇECEKLER",
+      "price": "₺175,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sicak-icecekler/turk-kahvesi-double/101263/STK-000586",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000586.jpg"
+    },
+    {
+      "name": "BEYPAZARI SODA",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺100,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/beypazari-soda/101260/STK-000836",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000836.jpg"
+    },
+    {
+      "name": "CAPPY ŞEFTALİ",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/cappy-seftali/101260/STK-000117",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000117.jpg"
+    },
+    {
+      "name": "CAPPY VİŞNE",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/cappy-visne/101260/STK-000119",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000119.jpg"
+    },
+    {
+      "name": "CHURCİLL",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/churcill/101260/STK-000122",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000122.jpg"
+    },
+    {
+      "name": "COCA COLA 330ML (TENEKE)",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/coca-cola-330ml-teneke/101260/STK-000844",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000844.jpg"
+    },
+    {
+      "name": "COCA COLA ZERO 250ML (CAM ŞİŞE)",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺125,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/coca-cola-zero-250ml-cam-sise/101260/STK-000840",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000840.jpg"
+    },
+    {
+      "name": "DAMLA SU",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺75,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/damla-su/101260/STK-000103",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000103.jpg"
+    },
+    {
+      "name": "DÜNYANIN EN İYİ LİMONATASI",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/dunyanin-en-iyi-limonatasi/101260/STK-000121",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000121.jpg"
+    },
+    {
+      "name": "FANTA 300ML (CAM ŞİŞE)",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/fanta-300ml-cam-sise/101260/STK-000108",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000108.jpg"
+    },
+    {
+      "name": "FUSE TEA LİMON",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/fuse-tea-limon/101260/STK-000115",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000115.jpg"
+    },
+    {
+      "name": "FUSE TEA ŞEFTALİ",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/fuse-tea-seftali/101260/STK-000113",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000113.jpg"
+    },
+    {
+      "name": "RED BULL ENERGY DRINK",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/red-bull-energy-drink/101260/STK-000588",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000588.jpg"
+    },
+    {
+      "name": "SCHWEPPES TONİK",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/schweppes-tonik/101260/STK-000111",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000111.jpg"
+    },
+    {
+      "name": "SCHWEPPES TONİK BİTTER LİMON",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/schweppes-tonik-bitter-limon/101260/STK-000112",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000112.jpg"
+    },
+    {
+      "name": "TAZE SIKILMIŞ PORTAKAL SUYU",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/taze-sikilmis-portakal-suyu/101260/STK-000120",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000120.jpg"
+    },
+    {
+      "name": "VİŞNE SODA",
+      "category": "SOĞUK İÇECEKLER",
+      "topCategory": "SOĞUK İÇECEKLER",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/visne-soda/101260/STK-000678",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000678.jpg"
+    },
+    {
+      "name": "ICED AMERICANO",
+      "category": "SOĞUK KAHVELER",
+      "topCategory": "SOĞUK KAHVELER",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-kahveler/iced-americano/101262/STK-000123",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000123.jpg"
+    },
+    {
+      "name": "ICED CARAMEL MACCIHATO",
+      "category": "SOĞUK KAHVELER",
+      "topCategory": "SOĞUK KAHVELER",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-kahveler/iced-caramel-maccihato/101262/STK-000126",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000126.jpg"
+    },
+    {
+      "name": "ICED LATTE",
+      "category": "SOĞUK KAHVELER",
+      "topCategory": "SOĞUK KAHVELER",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-kahveler/iced-latte/101262/STK-000124",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000124.jpg"
+    },
+    {
+      "name": "ICED MOCHA",
+      "category": "SOĞUK KAHVELER",
+      "topCategory": "SOĞUK KAHVELER",
+      "price": "₺200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-kahveler/iced-mocha/101262/STK-000125",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000125.jpg"
+    },
+    {
+      "name": "ARTEMİS CHARDONNAY",
+      "category": "BEYAZ ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/beyaz-saraplar/artemis-chardonnay/433706/STK-000786",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000786.jpg"
+    },
+    {
+      "name": "EPIC CHARDONNAY",
+      "category": "BEYAZ ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/beyaz-saraplar/epic-chardonnay/433706/STK-000785",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000785.jpg"
+    },
+    {
+      "name": "EPIC SAUVIGNON BLANC",
+      "category": "BEYAZ ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/beyaz-saraplar/epic-sauvignon-blanc/433706/STK-000566",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000566.jpg"
+    },
+    {
+      "name": "THIA CHARDONNAY",
+      "category": "BEYAZ ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.350,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/beyaz-saraplar/thia-chardonnay/433706/STK-000563",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000563.jpg"
+    },
+    {
+      "name": "THIA MİSKET 50CL",
+      "category": "BEYAZ ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/beyaz-saraplar/thia-misket-50cl/433706/STK-000570",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000570.jpg"
+    },
+    {
+      "name": "THIA SAUVIGNON BLANC",
+      "category": "BEYAZ ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.350,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/beyaz-saraplar/thia-sauvignon-blanc/433706/STK-000740",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000740.jpg"
+    },
+    {
+      "name": "BEYAZ ŞARAP KADEH",
+      "category": "KADEH ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺295,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-saraplar/beyaz-sarap-kadeh/412059/STK-000743",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000743.jpg"
+    },
+    {
+      "name": "KIRMIZI ŞARAP KADEH",
+      "category": "KADEH ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺295,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-saraplar/kirmizi-sarap-kadeh/412059/STK-000742",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000742.jpg"
+    },
+    {
+      "name": "PROSECCO KADEH",
+      "category": "KADEH ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-saraplar/prosecco-kadeh/412059/STK-000745",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000745.jpg"
+    },
+    {
+      "name": "ROSE/BLUSH ŞARAP KADEH",
+      "category": "KADEH ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺295,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-saraplar/roseblush-sarap-kadeh/412059/STK-000744",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000744.jpg"
+    },
+    {
+      "name": "ARTEMİS KARAOĞLAN - MERLOT",
+      "category": "KIRMIZI ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kirmizi-saraplar/artemis-karaoglan-merlot/433707/STK-000560",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000560.jpg"
+    },
+    {
+      "name": "ARTEMİS SHIRAZ - KALECİK KARASI",
+      "category": "KIRMIZI ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kirmizi-saraplar/artemis-shiraz-kalecik-karasi/433707/STK-000784",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000784.jpg"
+    },
+    {
+      "name": "EPIC CABARNET SAUVIGNON - MERLOT - SHIRAZ",
+      "category": "KIRMIZI ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kirmizi-saraplar/epic-cabarnet-sauvignon-merlot-shiraz/433707/STK-000806",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000806.jpg"
+    },
+    {
+      "name": "THIA CABARNET SAUVIGNON - MERLOT",
+      "category": "KIRMIZI ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.350,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kirmizi-saraplar/thia-cabarnet-sauvignon-merlot/433707/STK-000783",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000783.jpg"
+    },
+    {
+      "name": "THIA MERLOT",
+      "category": "KIRMIZI ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.350,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kirmizi-saraplar/thia-merlot/433707/STK-000739",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000739.jpg"
+    },
+    {
+      "name": "ARTEMİS ÖKÜZGÖZÜ - SHIRAZ",
+      "category": "ROSE ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/rose-saraplar/artemis-okuzgozu-shiraz/433711/STK-000787",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000787.jpg"
+    },
+    {
+      "name": "THIA BLUSH",
+      "category": "ROSE ŞARAPLAR",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.350,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/rose-saraplar/thia-blush/433711/STK-000741",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000741.jpg"
+    },
+    {
+      "name": "MOET CHANDON ICE IMPERIAL 75CL",
+      "category": "ŞAMPANYA & PROSECCO",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺10.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sampanya-prosecco/moet-chandon-ice-imperial-75cl/102058/STK-000248",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000248.jpg"
+    },
+    {
+      "name": "RITUEL PROSECCO",
+      "category": "ŞAMPANYA & PROSECCO",
+      "topCategory": "ŞARAPLAR",
+      "price": "₺1.450,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sampanya-prosecco/rituel-prosecco/102058/STK-000643",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000643.jpg"
+    },
+    {
+      "name": "AMSTERDAM",
+      "category": "İTHAL ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺275,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ithal-siseler/amsterdam/476042/STK-000283",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000283.jpg"
+    },
+    {
+      "name": "BECK'S",
+      "category": "İTHAL ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ithal-siseler/becks/476042/STK-000282",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000282.jpg"
+    },
+    {
+      "name": "BELFAST",
+      "category": "İTHAL ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺225,00",
+      "description": ".",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ithal-siseler/belfast/476042/STK-000285",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000285.jpg"
+    },
+    {
+      "name": "BUD",
+      "category": "İTHAL ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ithal-siseler/bud/476042/STK-000284",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000284.jpg"
+    },
+    {
+      "name": "CORONA",
+      "category": "İTHAL ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺275,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ithal-siseler/corona/476042/STK-000279",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000279.jpg"
+    },
+    {
+      "name": "DUVEL",
+      "category": "İTHAL ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺350,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ithal-siseler/duvel/476042/STK-000834",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000834.jpg"
+    },
+    {
+      "name": "ERDINGER",
+      "category": "İTHAL ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺295,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ithal-siseler/erdinger/476042/STK-000833",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000833.jpg"
+    },
+    {
+      "name": "HOEGAARDEN",
+      "category": "İTHAL ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺295,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ithal-siseler/hoegaarden/476042/STK-000835",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000835.jpg"
+    },
+    {
+      "name": "MILLER",
+      "category": "İTHAL ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺230,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ithal-siseler/miller/476042/STK-000281",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000281.jpg"
+    },
+    {
+      "name": "STELLA ARTOIS",
+      "category": "İTHAL ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺260,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ithal-siseler/stella-artois/476042/STK-000718",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000718.jpg"
+    },
+    {
+      "name": "BOMONTİ FİLTRESİZ",
+      "category": "YERLİ ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/yerli-siseler/bomonti-filtresiz/476043/STK-000094",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000094.jpg"
+    },
+    {
+      "name": "EFES GLUTENSİZ",
+      "category": "YERLİ ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺295,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/yerli-siseler/efes-glutensiz/476043/STK-000102",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000102.jpg"
+    },
+    {
+      "name": "EFES GREEN",
+      "category": "YERLİ ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺225,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/yerli-siseler/efes-green/476043/STK-000095",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000095.jpg"
+    },
+    {
+      "name": "EFES MALT ŞİŞE",
+      "category": "YERLİ ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺195,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/yerli-siseler/efes-malt-sise/476043/STK-000091",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000091.jpg"
+    },
+    {
+      "name": "EFES PİLSEN",
+      "category": "YERLİ ŞİŞELER",
+      "topCategory": "ŞİŞE BİRALAR",
+      "price": "₺195,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/yerli-siseler/efes-pilsen/476043/STK-000273",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000273.jpg"
+    },
+    {
+      "name": "CASAMIGOS ANEJO 100CL",
+      "category": "CASAMIGOS TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺7.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/casamigos-tequila/casamigos-anejo-100cl/391910/STK-000220",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000220.jpg"
+    },
+    {
+      "name": "CASAMIGOS ANEJO KADEH DUBLE",
+      "category": "CASAMIGOS TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺1.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/casamigos-tequila/casamigos-anejo-kadeh-duble/391910/STK-000222",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000222.jpg"
+    },
+    {
+      "name": "CASAMIGOS ANEJO KADEH TEK",
+      "category": "CASAMIGOS TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺550,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/casamigos-tequila/casamigos-anejo-kadeh-tek/391910/STK-000221",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000221.jpg"
+    },
+    {
+      "name": "CASAMIGOS BLANCO 100CL",
+      "category": "CASAMIGOS TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺6.750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/casamigos-tequila/casamigos-blanco-100cl/391910/STK-000214",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000214.jpg"
+    },
+    {
+      "name": "CASAMIGOS BLANCO KADEH DUBLE",
+      "category": "CASAMIGOS TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺1.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/casamigos-tequila/casamigos-blanco-kadeh-duble/391910/STK-000216",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000216.jpg"
+    },
+    {
+      "name": "CASAMIGOS BLANCO KADEH TEK",
+      "category": "CASAMIGOS TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/casamigos-tequila/casamigos-blanco-kadeh-tek/391910/STK-000215",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000215.jpg"
+    },
+    {
+      "name": "CASAMIGOS MESCAL KADEH TEK",
+      "category": "CASAMIGOS TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/casamigos-tequila/casamigos-mescal-kadeh-tek/391910/STK-000224",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000224.jpg"
+    },
+    {
+      "name": "CASAMIGOS MEZCAL 100 CL",
+      "category": "CASAMIGOS TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺6.750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/casamigos-tequila/casamigos-mezcal-100-cl/391910/STK-000315",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000315.jpg"
+    },
+    {
+      "name": "CASAMIGOS REPESADO KADEH DUBLE",
+      "category": "CASAMIGOS TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺1.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/casamigos-tequila/casamigos-repesado-kadeh-duble/391910/STK-000219",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000219.jpg"
+    },
+    {
+      "name": "CASAMIGOS REPESADO KADEH TEK",
+      "category": "CASAMIGOS TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/casamigos-tequila/casamigos-repesado-kadeh-tek/391910/STK-000218",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000218.jpg"
+    },
+    {
+      "name": "CASAMIGOS REPOSADO 100 CL",
+      "category": "CASAMIGOS TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺6.750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/casamigos-tequila/casamigos-reposado-100-cl/391910/STK-000313",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000313.jpg"
+    },
+    {
+      "name": "DON JULIO 1942",
+      "category": "DON JUILO TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺40.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/don-juilo-tequila/don-julio-1942/391916/STK-000767",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000767.jpg"
+    },
+    {
+      "name": "OLMECA BLANCO 35CL",
+      "category": "OLMECA TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺2.300,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/olmeca-tequila/olmeca-blanco-35cl/391912/STK-000210",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000210.jpg"
+    },
+    {
+      "name": "OLMECA BLANCO 70CL",
+      "category": "OLMECA TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺4.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/olmeca-tequila/olmeca-blanco-70cl/391912/STK-000209",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000209.jpg"
+    },
+    {
+      "name": "OLMECA BLANCO KADEH DUBLE",
+      "category": "OLMECA TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/olmeca-tequila/olmeca-blanco-kadeh-duble/391912/STK-000212",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000212.jpg"
+    },
+    {
+      "name": "OLMECA BLANCO KADEH TEK",
+      "category": "OLMECA TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺300,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/olmeca-tequila/olmeca-blanco-kadeh-tek/391912/STK-000211",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000211.jpg"
+    },
+    {
+      "name": "OLMECA SILVER 35 CL",
+      "category": "OLMECA TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺1.900,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/olmeca-tequila/olmeca-silver-35-cl/391912/STK-000477",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000477.jpg"
+    },
+    {
+      "name": "OLMECA SILVER 70 CL",
+      "category": "OLMECA TEQUILA",
+      "topCategory": "TEQUILA'S",
+      "price": "₺3.400,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/olmeca-tequila/olmeca-silver-70-cl/391912/STK-000476",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000476.jpg"
+    },
+    {
+      "name": "CHIVAS 12 Y.O 35CL",
+      "category": "CHIVAS REGAL",
+      "topCategory": "VİSKİLER",
+      "price": "₺2.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/chivas-regal/chivas-12-yo-35cl/391771/STK-000169",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000169.jpg"
+    },
+    {
+      "name": "CHIVAS 12 Y.O 70CL",
+      "category": "CHIVAS REGAL",
+      "topCategory": "VİSKİLER",
+      "price": "₺5.250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/chivas-regal/chivas-12-yo-70cl/391771/STK-000162",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000162.jpg"
+    },
+    {
+      "name": "CHIVAS 12 Y.O KADEH DUBLE",
+      "category": "CHIVAS REGAL",
+      "topCategory": "VİSKİLER",
+      "price": "₺795,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/chivas-regal/chivas-12-yo-kadeh-duble/391771/STK-000164",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000164.jpg"
+    },
+    {
+      "name": "CHIVAS 12 Y.O KADEH TEK",
+      "category": "CHIVAS REGAL",
+      "topCategory": "VİSKİLER",
+      "price": "₺550,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/chivas-regal/chivas-12-yo-kadeh-tek/391771/STK-000163",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000163.jpg"
+    },
+    {
+      "name": "CHIVAS REGAL 12 Y.O 100CL",
+      "category": "CHIVAS REGAL",
+      "topCategory": "VİSKİLER",
+      "price": "₺7.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/chivas-regal/chivas-regal-12-yo-100cl/391771/STK-000757",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000757.jpg"
+    },
+    {
+      "name": "JACK DANIELS 100CL",
+      "category": "JACK DANIELS",
+      "topCategory": "VİSKİLER",
+      "price": "₺8.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/jack-daniels/jack-daniels-100cl/391782/STK-000760",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000760.jpg"
+    },
+    {
+      "name": "JACK DANIELS 35CL",
+      "category": "JACK DANIELS",
+      "topCategory": "VİSKİLER",
+      "price": "₺2.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/jack-daniels/jack-daniels-35cl/391782/STK-000168",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000168.jpg"
+    },
+    {
+      "name": "JACK DANIELS 70CL",
+      "category": "JACK DANIELS",
+      "topCategory": "VİSKİLER",
+      "price": "₺5.300,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/jack-daniels/jack-daniels-70cl/391782/STK-000165",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000165.jpg"
+    },
+    {
+      "name": "JACK DANIELS KADEH DUBLE",
+      "category": "JACK DANIELS",
+      "topCategory": "VİSKİLER",
+      "price": "₺675,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/jack-daniels/jack-daniels-kadeh-duble/391782/STK-000167",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000167.jpg"
+    },
+    {
+      "name": "JACK DANIELS KADEH TEK",
+      "category": "JACK DANIELS",
+      "topCategory": "VİSKİLER",
+      "price": "₺425,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/jack-daniels/jack-daniels-kadeh-tek/391782/STK-000166",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000166.jpg"
+    },
+    {
+      "name": "JOHNNIE WALKER BLACK LABEL 100CL",
+      "category": "JOHNNIE WALKER BLACK LABEL",
+      "topCategory": "VİSKİLER",
+      "price": "₺7.250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/johnnie-walker-black-label/johnnie-walker-black-label-100cl/391799/STK-000831",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000831.jpg"
+    },
+    {
+      "name": "JOHNNIE WALKER BLACK LABEL 35CL",
+      "category": "JOHNNIE WALKER BLACK LABEL",
+      "topCategory": "VİSKİLER",
+      "price": "₺2.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/johnnie-walker-black-label/johnnie-walker-black-label-35cl/391799/STK-000686",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000686.jpg"
+    },
+    {
+      "name": "JOHNNIE WALKER BLACK LABEL 70CL",
+      "category": "JOHNNIE WALKER BLACK LABEL",
+      "topCategory": "VİSKİLER",
+      "price": "₺5.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/johnnie-walker-black-label/johnnie-walker-black-label-70cl/391799/STK-000687",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000687.jpg"
+    },
+    {
+      "name": "JOHNNIE WALKER BLACK LABEL KADEH DUBLE",
+      "category": "JOHNNIE WALKER BLACK LABEL",
+      "topCategory": "VİSKİLER",
+      "price": "₺650,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/johnnie-walker-black-label/johnnie-walker-black-label-kadeh-duble/391799/STK-000685",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000685.jpg"
+    },
+    {
+      "name": "JOHNNIE WALKER BLACK LABEL KADEH TEK",
+      "category": "JOHNNIE WALKER BLACK LABEL",
+      "topCategory": "VİSKİLER",
+      "price": "₺375,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/johnnie-walker-black-label/johnnie-walker-black-label-kadeh-tek/391799/STK-000684",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000684.jpg"
+    },
+    {
+      "name": "CARDHU GOLD RESERVE (70CL)",
+      "category": "ÖZEL VİSKİLER",
+      "topCategory": "VİSKİLER",
+      "price": "₺7.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-viskiler/cardhu-gold-reserve-70cl/413848/STK-000749",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000749.jpg"
+    },
+    {
+      "name": "DIMPLE GOLDEN SELECTION (70CL)",
+      "category": "ÖZEL VİSKİLER",
+      "topCategory": "VİSKİLER",
+      "price": "₺500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-viskiler/dimple-golden-selection-70cl/413848/STK-000751",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000751.jpg"
+    },
+    {
+      "name": "GENTLEMAN JACK (70CL)",
+      "category": "ÖZEL VİSKİLER",
+      "topCategory": "VİSKİLER",
+      "price": "₺5.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-viskiler/gentleman-jack-70cl/413848/STK-000750",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000750.jpg"
+    },
+    {
+      "name": "GLENFIDDICH 12 YO 70CL",
+      "category": "ÖZEL VİSKİLER",
+      "topCategory": "VİSKİLER",
+      "price": "₺7.250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-viskiler/glenfiddich-12-yo-70cl/413848/STK-000671",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000671.jpg"
+    },
+    {
+      "name": "JOHNNIE WALKER BLUE LABEL 70CL",
+      "category": "ÖZEL VİSKİLER",
+      "topCategory": "VİSKİLER",
+      "price": "₺29.900,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-viskiler/johnnie-walker-blue-label-70cl/413848/STK-000746",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000746.jpg"
+    },
+    {
+      "name": "MONKEY SHOULDER 70CL",
+      "category": "ÖZEL VİSKİLER",
+      "topCategory": "VİSKİLER",
+      "price": "₺5.250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-viskiler/monkey-shoulder-70cl/413848/STK-000614",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000614.jpg"
+    },
+    {
+      "name": "MONKEY SMOKE 70CL",
+      "category": "ÖZEL VİSKİLER",
+      "topCategory": "VİSKİLER",
+      "price": "₺5.950,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-viskiler/monkey-smoke-70cl/413848/STK-000712",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000712.jpg"
+    },
+    {
+      "name": "ROYAL SALUTE 21 Y.O 70CL",
+      "category": "ÖZEL VİSKİLER",
+      "topCategory": "VİSKİLER",
+      "price": "₺29.900,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-viskiler/royal-salute-21-yo-70cl/413848/STK-000151",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000151.jpg"
+    },
+    {
+      "name": "THE SINGLETON 12YO (70CL)",
+      "category": "ÖZEL VİSKİLER",
+      "topCategory": "VİSKİLER",
+      "price": "₺6.750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-viskiler/the-singleton-12yo-70cl/413848/STK-000747",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000747.jpg"
+    },
+    {
+      "name": "WOODFORD RESERVE (70CL)",
+      "category": "ÖZEL VİSKİLER",
+      "topCategory": "VİSKİLER",
+      "price": "₺8.750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ozel-viskiler/woodford-reserve-70cl/413848/STK-000748",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000748.jpg"
+    },
+    {
+      "name": "ABSOLUT BLUE 35CL",
+      "category": "ABSOLUT VODKA",
+      "topCategory": "VODKALAR",
+      "price": "₺2.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/absolut-vodka/absolut-blue-35cl/388712/STK-000174",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000174.jpg"
+    },
+    {
+      "name": "ABSOLUT BLUE 70CL",
+      "category": "ABSOLUT VODKA",
+      "topCategory": "VODKALAR",
+      "price": "₺4.250,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/absolut-vodka/absolut-blue-70cl/388712/STK-000173",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000173.jpg"
+    },
+    {
+      "name": "BELUGA NOBLE 100 CL",
+      "category": "BELUGA NOBLE VODKA",
+      "topCategory": "VODKALAR",
+      "price": "₺8.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/beluga-noble-vodka/beluga-noble-100-cl/388714/STK-000474",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000474.jpg"
+    },
+    {
+      "name": "BELVEDERE 70CL",
+      "category": "BELVEDERE VODKA",
+      "topCategory": "VODKALAR",
+      "price": "₺7.000,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/belvedere-vodka/belvedere-70cl/388715/STK-000177",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000177.jpg"
+    },
+    {
+      "name": "GREY GOOSE ORIGINAL 70CL",
+      "category": "GREY GOOSE VODKA",
+      "topCategory": "VODKALAR",
+      "price": "₺6.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/grey-goose-vodka/grey-goose-original-70cl/388716/STK-000180",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000180.jpg"
+    },
+    {
+      "name": "ABSOLUT DOUBLE",
+      "category": "KADEH VODKALAR",
+      "topCategory": "VODKALAR",
+      "price": "₺550,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-vodkalar/absolut-double/418381/STK-000176",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000176.jpg"
+    },
+    {
+      "name": "ABSOLUT TEK",
+      "category": "KADEH VODKALAR",
+      "topCategory": "VODKALAR",
+      "price": "₺350,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-vodkalar/absolut-tek/418381/STK-000175",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000175.jpg"
+    },
+    {
+      "name": "BELVEDERE DOUBLE",
+      "category": "KADEH VODKALAR",
+      "topCategory": "VODKALAR",
+      "price": "₺850,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-vodkalar/belvedere-double/418381/STK-000179",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000179.jpg"
+    },
+    {
+      "name": "BELVEDERE TEK",
+      "category": "KADEH VODKALAR",
+      "topCategory": "VODKALAR",
+      "price": "₺550,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/kadeh-vodkalar/belvedere-tek/418381/STK-000178",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000178.jpg"
+    },
+    {
+      "name": "MANGO CURRY CHICKEN",
+      "category": "ANA YEMEKLER",
+      "topCategory": "YİYECEKLER",
+      "price": "₺575,00",
+      "description": "Tatlı ve baharatlı mango curry sosunda sotelenmiş julıen tavuk göğsü, elma dilimleri ve mantar ile buluşuyor. Fıstıkla zenginleşen bu lezzet, siyez bulgur sote ve maskolin eşliğinde servis edilerek hem hafif hem doyurucu bir deneyim sunuyor.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ana-yemekler/mango-curry-chicken/100995/STK-000040",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000040.jpg"
+    },
+    {
+      "name": "TOSCANA TAVUK",
+      "category": "ANA YEMEKLER",
+      "topCategory": "YİYECEKLER",
+      "price": "₺595,00",
+      "description": "Toscana’nın güneşli tepelerinden ilham alan bu tabakta; kapya biber ve soğanın salçayla kavrularak hazırlanan sosu, krema ve parmesanla zenginleşiyor. Izgarada mühürlenen tavuk göğsü bu sosun içinde ağır ağır dinlenerek lezzetini derinleştiriyor; göveçte servis edilirken üzerine fırında kızaran mozzarella eşlik ediyor. Yanında kapya biber, mısır ve cherry domatesle sotelenmiş siyez bulguru ile İtalyan soslu Akdeniz yeşillikleri sunuluyor. Final dokunuşu olarak tereyağı ve sarımsakla kızartılmış baget ekmeği, tabaktaki aromalara kusursuz eşlik ediyor. bolca tavuğuyla italyan ruhunu taşıyar.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/ana-yemekler/toscana-tavuk/100995/STK-000690",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000690.jpg"
+    },
+    {
+      "name": "CRUNCHY CHICKEN BOWL",
+      "category": "BOWLLAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺475,00",
+      "description": "Taze maskolin yeşillikler üzerine yerleşen crispy tavuklar, kapya biberli ve mısırlı siyez bulguru ile tamamlanıyor. Kornişon küpleriyle asidite dengeleniyor, fıstık parçalarıyla zenginleştirilmiş taze otlu labneyle tabak bağlanıyor. Hem doyurucu, hem çıtır, hem de tam Peanuts işi.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/bowllar/crunchy-chicken-bowl/100891/STK-000020",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000020.jpg"
+    },
+    {
+      "name": "FALAFEL & BELUGA BOWL",
+      "category": "BOWLLAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺460,00",
+      "description": "Taptaze maskolin yeşilliklerin üzerinde, çıtır çıtır nohutlu üç falafel topu ve ferahlatıcı soğuk, limonlu zeytinyağlı Beluga mercimeği buluşuyor. avokado sos ve közlenmiş kırmızı biber ile dengelenen bu tabak, özel tahin sosuyla tamamlanıyor. Sağlıklı, doyurucu ve damağınızı şımartan bir lezzet deneyimi.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/bowllar/falafel-beluga-bowl/100891/STK-000021",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000021.jpg"
+    },
+    {
+      "name": "IZGARA TAVUK & PESTO BOWL",
+      "category": "BOWLLAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺475,00",
+      "description": "Nar gibi ızgara tavuk göğsü dilimleri, taptaze maskolin yeşilliklerin üzerinde, Beluga mercimeği pesto sosuyla buluşuyor. Thai usulü ince şeritlere kesilmiş salatalık ve havuç, avokado dilimleri ile renklenirken, tatlı kapya biberi dokunuşuyla lezzet dengesi yakalanıyor. Hafif, ferah ve doyurucu bir lezzet seçeneği.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/bowllar/izgara-tavuk-pesto-bowl/100891/STK-000023",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000023.jpg"
+    },
+    {
+      "name": "CHEESE BURGER (ÇİFT KÖFTELİ)",
+      "category": "BURGERLER",
+      "topCategory": "YİYECEKLER",
+      "price": "₺475,00",
+      "description": "Sıradan burgerleri unutun. Bu burger, gerçek cheddar tutkunları ve lezzet avcıları için yaratıldı. İnce kıyılmış özel et karışımımız, yüksek ısıda mühürlenerek çift kat olarak sunuluyor...",
+      "href": "https://peanuts.dinosoft.com.tr/menu/burgerler/cheese-burger-cift-kofteli/100912/STK-000024",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000024.jpg"
+    },
+    {
+      "name": "EL VOLCANO BURGER(ÇİFT KÖFTELİ)",
+      "category": "BURGERLER",
+      "topCategory": "YİYECEKLER",
+      "price": "₺495,00",
+      "description": "Marul ve domatesin tazeliğiyle birleşen köfte, Meksikan biber ve Volcano Sos ile ateşli bir lezzet patlaması yaratıyor.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/burgerler/el-volcano-burger-cift-kofteli/100912/STK-000695",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000695.jpg"
+    },
+    {
+      "name": "SMOKY SMASH BURGER (ÇİFT KÖFTELİ)",
+      "category": "BURGERLER",
+      "topCategory": "YİYECEKLER",
+      "price": "₺495,00",
+      "description": "Çift kat juicy smash köfte, erimiş cheddar ve çıtır dana bacon ile buluşuyor. Köz biber ezmesi ve alt tabanda hafif tatlı ve dumanlı BBQ sosuyla zenginleştirilen bu lezzet, tereyağlı brioche ekmek arasında unutulmaz bir tat bırakıyor.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/burgerler/smoky-smash-burger-cift-kofteli/100912/STK-000028",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000028.jpg"
+    },
+    {
+      "name": "BAN-BAN TAVUK",
+      "category": "ÇITIRLAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺495,00",
+      "description": "Altın rengi panko kaplı, dışı ekstra çıtır içi sulu tavuk fingerlar. Yanında ev yapımı domates bazlı özel dip sos ve taze yeşillikler, italyan sos dokunuşuyla servis edilir.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/citirlar/ban-ban-tavuk/101037/STK-000828",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000828.jpg"
+    },
+    {
+      "name": "BİRA SEPETİ",
+      "category": "ÇITIRLAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺490,00",
+      "description": "Kaşık patates, French fries tavuk , sosis, soğan halkası ve mac&cheese toplarından oluşan zengin karışım. Bira keyfinizi taçlandıracak doyurucu ve lezzet dolu atıştırmalık sepeti.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/citirlar/bira-sepeti/101037/STK-000053",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000053.jpg"
+    },
+    {
+      "name": "CHEDDAR PATATES",
+      "category": "ÇITIRLAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺365,00",
+      "description": "Özel hazırlanan cheddar sosumuzun patatesle buluşması",
+      "href": "https://peanuts.dinosoft.com.tr/menu/citirlar/cheddar-patates/101037/STK-000051",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000051.jpg"
+    },
+    {
+      "name": "CHICKEN FINGERS",
+      "category": "ÇITIRLAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺475,00",
+      "description": "Çıtır tavuk parçaları, yanında kaşık patates ve klasik French fry ile servis edilir. Bira keyfinize eşlik edecek pratik ve lezzetli atıştırmalık.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/citirlar/chicken-fingers/101037/STK-000052",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000052.jpg"
+    },
+    {
+      "name": "KAŞIK PATATES",
+      "category": "ÇITIRLAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺345,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/citirlar/kasik-patates/101037/STK-000048",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000048.jpg"
+    },
+    {
+      "name": "TRÜF PARMESAN PATATES",
+      "category": "ÇITIRLAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺400,00",
+      "description": "Trüf mantar yağı ve parmesan peynirinin patatesle mükemmel buluşması",
+      "href": "https://peanuts.dinosoft.com.tr/menu/citirlar/truf-parmesan-patates/101037/STK-000049",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000049.jpg"
+    },
+    {
+      "name": "YOĞURTLU PATATES KIZARTMASI",
+      "category": "ÇITIRLAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺290,00",
+      "description": "ANNE ELİ DEĞMİŞ GİBİ",
+      "href": "https://peanuts.dinosoft.com.tr/menu/citirlar/yogurtlu-patates-kizartmasi/101037/STK-000723",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000723.jpg"
+    },
+    {
+      "name": "KARiDES CİPS",
+      "category": "HER YUDUMDA BIR LOKMA",
+      "topCategory": "YİYECEKLER",
+      "price": "₺190,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/her-yudumda-bir-lokma/karides-cips/392960/STK-000711",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000711.jpg"
+    },
+    {
+      "name": "FETTUCINE ALFREDO",
+      "category": "MAKARNALAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺395,00",
+      "description": "Makarnamız, taze hazırlanmış fettuccine ile yapılır; ipeksi sosu ise damakta eriyen bir tat bırakır. Sadelikten gelen zarafetle, tereyağında sotelenmiş julien tavuklarla her lokmada İtalya’nın kalbinde kısa bir yolculuğa çıkarsınız.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/makarnalar/fettucine-alfredo/101016/STK-000044",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000044.jpg"
+    },
+    {
+      "name": "KUZU KULAĞI PESTO FETTUCINE",
+      "category": "MAKARNALAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺370,00",
+      "description": "Özel kuzu kulağı pestosuyla harmanlanmış fettucine, üzeri fıstık parçaları ve taze limon rendesiyle taçlanıyor. Hem aromatik hem de ferahlatıcı bir İtalyan lezzeti.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/makarnalar/kuzu-kulagi-pesto-fettucine/101016/STK-000045",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000045.jpg"
+    },
+    {
+      "name": "5 PEYNİRLİ SMOKY PİZZA",
+      "category": "PİZZALAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺595,00",
+      "description": "Labne tabanı üzerinde mozarella, hafif isli çerkez peyniri, kars gravyer ve parmesan ile fırının hafif duman aromasıyla tamamlanmış peynir şöleni",
+      "href": "https://peanuts.dinosoft.com.tr/menu/pizzalar/5-peynirli-smoky-pizza/100943/STK-000691",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000691.jpg"
+    },
+    {
+      "name": "FÜME KABURGA & HELLİM PİZZA",
+      "category": "PİZZALAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺595,00",
+      "description": "Fesleğenli pesto sosun taze aromasıyla buluşan ızgara hellim küpleri, zeytin ve mozzarella ile zenginleşiyor. Üzerine eklenen ince füme et dilimleriyle her lokmada dengeli ve karakterli bir lezzet sunuyor",
+      "href": "https://peanuts.dinosoft.com.tr/menu/pizzalar/fume-kaburga-hellim-pizza/100943/STK-000031",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000031.jpg"
+    },
+    {
+      "name": "MARGHERITA PIZZA",
+      "category": "PİZZALAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺575,00",
+      "description": "alt tabanında domates sos üzeri bol mozarella peyniri, cherry domates ve pesto sosun ufak dokunuşuyla taçlandırılıyor.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/pizzalar/margherita-pizza/100943/STK-000700",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000700.jpg"
+    },
+    {
+      "name": "PEANUTS CHICKEN MEXICAN PİZZA",
+      "category": "PİZZALAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺595,00",
+      "description": "Tavanın başında hafifçe karamelize olan tavuklu taco harcı, sweet chili’nin tatlı-tehlikeli dokunuşu ve jalapenonun asi ateşiyle birleşip zeytinle beraber yepyeni bir karakter kazanıyor. Altında uzayan mozzarella ve baharatlı domates sosu, bu ateşli ruhu sakinleştirip sahneye davet ediyor.Fıstığın sürpriz çıtırtısı ise her lokmada hikâyeye beklenmedik bir dönemeç ekliyor.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/pizzalar/peanuts-chicken-mexican-pizza/100943/STK-000710",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000710.jpg"
+    },
+    {
+      "name": "TRÜF MANTAR RÜYASI PİZZA",
+      "category": "PİZZALAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺595,00",
+      "description": "Labne bazlı beyaz krem sosun yumuşak dokusuyla buluşan kültür ve istiridye mantarları, trüf yağıyla derin bir aroma kazanıyor. Mozzarella ile harmanlanan lezzet, kıtır saman patatesle çıtırlık kazanıyor. Fırından çıktıktan sonra taze roka ve parmesanla taçlanarak servis ediliyor",
+      "href": "https://peanuts.dinosoft.com.tr/menu/pizzalar/truf-mantar-ruyasi-pizza/100943/STK-000032",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000032.jpg"
+    },
+    {
+      "name": "AZURE GARDEN",
+      "category": "SALATALAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺390,00",
+      "description": "Taze Akdeniz yeşillikleri, yaban mersini sosunun tatlı asiditesi ve çıtır paneli cheddar toplarının uyumuyla hazırlanan ferah ve dengeli bir salata.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/salatalar/azure-garden/100856/STK-000693",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000693.jpg"
+    },
+    {
+      "name": "PEANUTS CESAR SALATA",
+      "category": "SALATALAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺390,00",
+      "description": "Izgara tavuk dilimleri, fresh kıvırcık marul, sarımsaklı kruton ve parmesanla bir araya geliyor. Fıstık parçalarıyla zenginleştirilmiş Sezar sosumuz ve üzerine serpiştirilen kıtır fıstıklarla, klasik bir salataya Peanuts dokunuşu katıyoruz.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/salatalar/peanuts-cesar-salata/100856/STK-000015",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000015.jpg"
+    },
+    {
+      "name": "PEANUTS CHICKEN NACHOS",
+      "category": "SOKAKTAN LEZZETLER",
+      "topCategory": "YİYECEKLER",
+      "price": "₺495,00",
+      "description": "Hafif baharatlı mısır cipslerinin üzerinde jülyen tavuk parçaları, karamelize soğan ve mozzarella-cheddar karışımı eriyor. Renkli köz biber şeritleri, mısır ve kırmızı fasulye ile zenginleşen bu tabak, lezzet ve renk şöleni sunuyor.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sokaktan-lezzetler/peanuts-chicken-nachos/100964/STK-000039",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000039.jpg"
+    },
+    {
+      "name": "SMOKY CHICKEN TACO",
+      "category": "SOKAKTAN LEZZETLER",
+      "topCategory": "YİYECEKLER",
+      "price": "₺525,00",
+      "description": "BBQ sosla marine edilmiş ızgara tavuk parçaları, fıstıklı lahana coleslaw ile ferahlatıcı bir dengede buluşuyor. Jalapeno dilimleri ve közlenmiş biber şeritleriyle lezzet dozajı yükseliyor; çıtır saman patatesle tamamlanan bu taco, dumanlı ve cesur bir lezzet vadediyor.",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sokaktan-lezzetler/smoky-chicken-taco/100964/STK-000034",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000034.jpg"
+    },
+    {
+      "name": "CHEESECAKE (LİMONLU)",
+      "category": "TATLILAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺375,00",
+      "description": "Mert Şef sizler için özenle hazırladı... Afiyet olsun...",
+      "href": "https://peanuts.dinosoft.com.tr/menu/tatlilar/cheesecake-limonlu/101073/STK-000055",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000055.jpg"
+    },
+    {
+      "name": "DEVİL'S CAKE(ÇİKOLOTALI)",
+      "category": "TATLILAR",
+      "topCategory": "YİYECEKLER",
+      "price": "₺350,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/tatlilar/devils-cake-cikolotali/101073/STK-000637",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000637.jpg"
+    }
+  ]
+}

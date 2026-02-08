@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="peanutIcon" x1="7" y1="8" x2="57" y2="57" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6E4323" />
+      <stop offset="1" stop-color="#DDA66A" />
+    </linearGradient>
+  </defs>
+  <path
+    d="M32 33.5C28.5 27.2 21.9 24.4 16.8 26.8C11.5 29.3 9.4 36 11.6 41.8C13.7 47.4 19.2 51.1 24.8 50.3C29.8 49.6 33.4 44.6 32 33.5Z"
+    fill="url(#peanutIcon)"
+  />
+  <path
+    d="M32 33.5C35.5 27.2 42.1 24.4 47.2 26.8C52.5 29.3 54.6 36 52.4 41.8C50.3 47.4 44.8 51.1 39.2 50.3C34.2 49.6 30.6 44.6 32 33.5Z"
+    fill="url(#peanutIcon)"
+  />
+</svg>

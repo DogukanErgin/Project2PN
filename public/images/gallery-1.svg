@@ -1,0 +1,22 @@
+﻿<svg width='1200' height='800' viewBox='0 0 1200 800' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <defs>
+    <linearGradient id='gSystem.Collections.Hashtable.id' x1='0' y1='0' x2='1200' y2='800' gradientUnits='userSpaceOnUse'>
+      <stop offset='0' stop-color='#21140C'/>
+      <stop offset='0.55' stop-color='#B66A2A'/>
+      <stop offset='1' stop-color='#F1C287'/>
+    </linearGradient>
+    <radialGradient id='rSystem.Collections.Hashtable.id' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(760 320) rotate(120) scale(470 510)'>
+      <stop stop-color='white' stop-opacity='0.35'/>
+      <stop offset='1' stop-color='white' stop-opacity='0'/>
+    </radialGradient>
+    <pattern id='nSystem.Collections.Hashtable.id' patternUnits='userSpaceOnUse' width='6' height='6'>
+      <circle cx='1' cy='1' r='0.7' fill='white' fill-opacity='0.1'/>
+    </pattern>
+  </defs>
+  <rect width='1200' height='800' fill='url(#gSystem.Collections.Hashtable.id)'/>
+  <rect width='1200' height='800' fill='url(#rSystem.Collections.Hashtable.id)'/>
+  <rect width='1200' height='800' fill='url(#nSystem.Collections.Hashtable.id)' opacity='0.5'/>
+  <rect x='60' y='60' width='1080' height='680' rx='34' stroke='white' stroke-opacity='0.18' stroke-width='2'/>
+  <text x='88' y='122' fill='white' fill-opacity='0.72' font-family='Verdana, sans-serif' font-size='24' letter-spacing='5'>PEANUTS GALLERY</text>
+  <text x='88' y='692' fill='white' fill-opacity='0.75' font-family='Verdana, sans-serif' font-size='62' font-weight='700'>SCENE 0System.Collections.Hashtable.id</text>
+</svg>

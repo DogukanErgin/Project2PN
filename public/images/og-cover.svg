@@ -1,0 +1,17 @@
+﻿<svg width='1200' height='630' viewBox='0 0 1200 630' fill='none' xmlns='http://www.w3.org/2000/svg'>
+  <defs>
+    <linearGradient id='og' x1='0' y1='0' x2='1200' y2='630' gradientUnits='userSpaceOnUse'>
+      <stop stop-color='#100D0B'/>
+      <stop offset='0.6' stop-color='#6C4020'/>
+      <stop offset='1' stop-color='#D8A364'/>
+    </linearGradient>
+    <radialGradient id='ogLight' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(880 250) rotate(125) scale(380 380)'>
+      <stop stop-color='white' stop-opacity='0.4'/>
+      <stop offset='1' stop-color='white' stop-opacity='0'/>
+    </radialGradient>
+  </defs>
+  <rect width='1200' height='630' fill='url(#og)'/>
+  <rect width='1200' height='630' fill='url(#ogLight)'/>
+  <text x='100' y='300' fill='white' font-family='Verdana, sans-serif' font-size='114' font-weight='700'>Peanuts</text>
+  <text x='104' y='356' fill='white' fill-opacity='0.86' font-family='Verdana, sans-serif' font-size='34' letter-spacing='2'>DENIZLI PREMIUM PUB</text>
+</svg>

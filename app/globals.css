@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  background: #0b0a08;
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  font-family: var(--font-sans), sans-serif;
+  color: #f6e7d2;
+  background:
+    radial-gradient(120% 100% at 10% 0%, rgba(165, 95, 44, 0.18), rgba(11, 10, 8, 0) 40%),
+    radial-gradient(110% 90% at 90% 20%, rgba(82, 47, 24, 0.22), rgba(11, 10, 8, 0) 45%),
+    #0b0a08;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.11;
+  background-image:
+    radial-gradient(circle at 25% 25%, rgba(255, 255, 255, 0.14) 0.4px, transparent 0.4px),
+    radial-gradient(circle at 75% 75%, rgba(255, 255, 255, 0.09) 0.5px, transparent 0.5px);
+  background-size: 4px 4px, 5px 5px;
+  animation: grainShift 8s steps(8) infinite;
+  z-index: -1;
+}
+
+::selection {
+  background: rgba(214, 141, 71, 0.35);
+  color: #fff;
+}
+
+@keyframes grainShift {
+  0% {
+    transform: translate(0, 0);
+  }
+  20% {
+    transform: translate(-1.2%, 1%);
+  }
+  40% {
+    transform: translate(1.4%, -0.8%);
+  }
+  60% {
+    transform: translate(0.4%, 1%);
+  }
+  80% {
+    transform: translate(-0.5%, -1%);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  body::before {
+    animation: none;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
