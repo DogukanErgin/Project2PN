@@ -54,6 +54,9 @@ export function MenuPreview({ content }: MenuPreviewProps) {
   const dialogRef = useRef<HTMLDivElement>(null);
   const closeButtonRef = useRef<HTMLButtonElement>(null);
   const previousFocusRef = useRef<HTMLElement | null>(null);
+  const isEnglish = content.metadata.intlLocale.startsWith("en");
+  const wifiLabel = isEnglish ? "Wi-Fi Password" : "Wi-Fi Sifresi";
+  const wifiHref = isEnglish ? "/wifi?lang=en" : "/wifi";
 
   const hasSyncedMenu = Array.isArray(menuSnapshot.items) && menuSnapshot.items.length > 0;
   const syncedCategories =
@@ -169,9 +172,20 @@ export function MenuPreview({ content }: MenuPreviewProps) {
               <p className="max-w-xl text-xs text-fog">{content.menu.fallbackNote}</p>
             )}
           </div>
-          <Button href={content.business.qrMenuUrl} target="_blank" rel="noreferrer" variant="ghost">
-            {content.menu.qrLabel}
-          </Button>
+          <div className="flex w-full flex-wrap gap-2 sm:w-auto sm:justify-end">
+            <Button href={wifiHref} variant="ghost" className="flex-1 sm:flex-none">
+              {wifiLabel}
+            </Button>
+            <Button
+              href={content.business.qrMenuUrl}
+              target="_blank"
+              rel="noreferrer"
+              variant="ghost"
+              className="flex-1 sm:flex-none"
+            >
+              {content.menu.qrLabel}
+            </Button>
+          </div>
         </Reveal>
 
         <Reveal delay={0.08} className="mt-10 md:mt-12">

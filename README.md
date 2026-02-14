@@ -27,6 +27,8 @@ Language routes:
 
 - `http://localhost:3000/tr`
 - `http://localhost:3000/en`
+- `http://localhost:3000/wifi` (table QR target)
+- `http://localhost:3000/wifi-admin` (admin panel)
 
 Production:
 
@@ -112,6 +114,43 @@ Optional env override:
 If sync fails, the UI uses fallback menu items from `site.ts`.
 
 Synced payload also includes per-item descriptions and shows them in the category modal.
+
+## Wi-Fi Password Page
+
+Guests can open a dedicated Wi-Fi page at:
+
+- `http://localhost:3000/wifi`
+
+Language switch:
+
+- Turkish: `/wifi`
+- English: `/wifi?lang=en`
+
+Configure values from environment:
+
+- `NEXT_PUBLIC_WIFI_SSID` (default `Peanuts Guest`)
+- `NEXT_PUBLIC_WIFI_PASSWORD` (default `PEANUTS2026`)
+
+Password is rendered with a leading `#` on the page by design.
+
+## Wi-Fi Admin Panel
+
+Use the restricted panel to update only the Wi-Fi password:
+
+- `http://localhost:3000/wifi-admin`
+
+Required env variable:
+
+- `WIFI_ADMIN_PASSWORD`
+
+Runtime behavior:
+
+- `/wifi-admin` sends updates to `app/api/wifi-admin/route.ts`
+- Updated values are stored in `data/wifi-config.json`
+- `/wifi` reads this file on each request
+- SSID remains controlled by `NEXT_PUBLIC_WIFI_SSID`
+
+If `WIFI_ADMIN_PASSWORD` is missing, API returns `503` and update is blocked.
 
 ## How To Replace Images
 

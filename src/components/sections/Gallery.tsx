@@ -87,14 +87,15 @@ export function Gallery({ content }: GalleryProps) {
               <button
                 type="button"
                 onClick={() => setActiveIndex(index)}
-                className="group relative block aspect-[4/3] overflow-hidden rounded-xl border border-white/10 bg-midnight-soft/70 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber focus-visible:ring-offset-2 focus-visible:ring-offset-midnight"
+                className="group relative block aspect-[4/3] min-h-24 overflow-hidden rounded-xl border border-white/10 bg-midnight-soft/70 sm:min-h-36 md:min-h-40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber focus-visible:ring-offset-2 focus-visible:ring-offset-midnight"
                 aria-label={`${index + 1}${content.ui.galleryOpenLabelSuffix}`}
               >
                 <Image
                   src={item.src}
                   alt={item.alt}
                   fill
-                  className="object-cover transition duration-500 group-hover:scale-105"
+                  unoptimized
+                  className="object-contain p-1 transition duration-500 group-hover:scale-[1.02]"
                   sizes="(max-width: 768px) 46vw, 24vw"
                 />
               </button>
@@ -142,13 +143,14 @@ export function Gallery({ content }: GalleryProps) {
                 </button>
               </div>
 
-              <div className="relative flex-1 overflow-hidden rounded-xl border border-white/10">
+              <div className="relative flex-1 overflow-hidden rounded-xl border border-white/10 bg-black/60">
                 <Image
                   src={activeItem.src}
                   alt={activeItem.alt}
                   fill
-                  className="object-cover"
-                  sizes="(max-width: 1024px) 95vw, 1200px"
+                  unoptimized
+                  className="object-contain"
+                  sizes="(max-width: 768px) 92vw, (max-width: 1024px) 90vw, 1200px"
                 />
               </div>
 

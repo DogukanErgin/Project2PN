@@ -1,10 +1,15 @@
 {
   "source": "synced",
   "sourceUrl": "https://peanuts.dinosoft.com.tr/menu",
-  "generatedAt": "2026-02-07T14:29:57.813Z",
-  "totalPages": 403,
+  "generatedAt": "2026-02-12T12:13:49.348Z",
+  "totalPages": 404,
   "totalItems": 317,
   "topCategories": [
+    {
+      "name": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sevgililer-gunu-ozel-menu-496809",
+      "image": "https://peanuts.dinosoft.com.tr/images/Category/PEANUTSSEVGILILERGUNU.jpg"
+    },
     {
       "name": "YİYECEKLER",
       "href": "https://peanuts.dinosoft.com.tr/menu/yiyecekler-393304",
@@ -571,33 +576,6 @@
       "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000204.jpg"
     },
     {
-      "name": "1 DİLİM LİMONLU CHEESECAKE + MEYVE TABAĞI + 1 ŞİŞE THIA MİSKET",
-      "category": "KAMPANYALAR",
-      "topCategory": "KAMPANYALAR",
-      "price": "₺1.500,00",
-      "description": "",
-      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/1-dilim-limonlu-cheesecake-meyve-tabagi-1-sise-thia-misket/126774/STK-000811",
-      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000811.jpg"
-    },
-    {
-      "name": "2 ADET EFES MALT FIÇI + SMOKY CHICKEN TACO",
-      "category": "KAMPANYALAR",
-      "topCategory": "KAMPANYALAR",
-      "price": "₺725,00",
-      "description": "",
-      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/2-adet-efes-malt-fici-smoky-chicken-taco/126774/STK-000812",
-      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000812.jpg"
-    },
-    {
-      "name": "2 ADET FETTUCCİNE ALFREDO + 2 ADET EFES MALT FIÇI",
-      "category": "KAMPANYALAR",
-      "topCategory": "KAMPANYALAR",
-      "price": "₺1.150,00",
-      "description": "",
-      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/2-adet-fettuccine-alfredo-2-adet-efes-malt-fici/126774/STK-000813",
-      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000813.jpg"
-    },
-    {
       "name": "2 ADET KUZU KULAĞI PESTO FETTUCCINE + 1 ŞİŞE THIA SAUVIGNON BLANC",
       "category": "KAMPANYALAR",
       "topCategory": "KAMPANYALAR",
@@ -652,15 +630,6 @@
       "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000657.jpg"
     },
     {
-      "name": "AZURE GARDEN + 2 ADET MILLER ŞİŞE",
-      "category": "KAMPANYALAR",
-      "topCategory": "KAMPANYALAR",
-      "price": "₺750,00",
-      "description": "",
-      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/azure-garden-2-adet-miller-sise/126774/STK-000814",
-      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000814.jpg"
-    },
-    {
       "name": "BELFAST BAVYERA - 100 CL (TURŞU VE KABUKLU FISTIK İLE SERVİS EDİLİR...)",
       "category": "KAMPANYALAR",
       "topCategory": "KAMPANYALAR",
@@ -668,24 +637,6 @@
       "description": "",
       "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/belfast-bavyera-100-cl-tursu-ve-kabuklu-fistik-ile-servis-edilir/126774/STK-000270",
       "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000270.jpg"
-    },
-    {
-      "name": "BEYAZ İKİLİ - PEYNİR(AKŞAM RAKISI)",
-      "category": "KAMPANYALAR",
-      "topCategory": "KAMPANYALAR",
-      "price": "₺975,00",
-      "description": "20CL RAKI VE EZİNE BEYAZ PEYNİR İLE AKŞAM KEYFİNİZİ BAŞLATMAYA YETER",
-      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/beyaz-ikili-peynir-aksam-rakisi/126774/STK-000714",
-      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000714.jpg"
-    },
-    {
-      "name": "BEYAZ İKİLİ - YOĞURT(AKŞAM RAKISI)",
-      "category": "KAMPANYALAR",
-      "topCategory": "KAMPANYALAR",
-      "price": "₺975,00",
-      "description": "20CL RAKI VE SÜZME YOĞURT İLE AKŞAM KEYFİNİZİ BAŞLATMAYA YETER",
-      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/beyaz-ikili-yogurt-aksam-rakisi/126774/STK-000713",
-      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000713.jpg"
     },
     {
       "name": "DİLEDİĞİNİZ 1 BURGER YANINDA 1 ADET EFES MALT FIÇI 10TL",
@@ -724,15 +675,6 @@
       "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000656.jpg"
     },
     {
-      "name": "MARGHERITA PIZZA + 1 ŞİŞE RİTUEL ÇALKARASI - SHIRAZ",
-      "category": "KAMPANYALAR",
-      "topCategory": "KAMPANYALAR",
-      "price": "₺1.200,00",
-      "description": "",
-      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/margherita-pizza-1-sise-rituel-calkarasi-shiraz/126774/STK-000808",
-      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000808.jpg"
-    },
-    {
       "name": "SMOKY CHICKEN TACO + 1 ŞİŞE THIA MERLOT",
       "category": "KAMPANYALAR",
       "topCategory": "KAMPANYALAR",
@@ -740,15 +682,6 @@
       "description": "",
       "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/smoky-chicken-taco-1-sise-thia-merlot/126774/STK-000809",
       "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000809.jpg"
-    },
-    {
-      "name": "SMOKY CHICKEN TACO + 2 KADEH MARGARITA KOKTEYL",
-      "category": "KAMPANYALAR",
-      "topCategory": "KAMPANYALAR",
-      "price": "₺1.200,00",
-      "description": "",
-      "href": "https://peanuts.dinosoft.com.tr/menu/kampanyalar/smoky-chicken-taco-2-kadeh-margarita-kokteyl/126774/STK-000810",
-      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000810.jpg"
     },
     {
       "name": "STELLA ARTOIS BAVYERA - 100CL (TURŞU VE KABUKLU FISTIK İLE SERVİS EDİLİR...)",
@@ -1453,6 +1386,78 @@
       "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000260.jpg"
     },
     {
+      "name": "1 DİLİM LİMONLU CHEESECAKE + MEYVE TABAĞI + 1 ŞİŞE THIA MİSKET",
+      "category": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "topCategory": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "price": "₺1.500,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sevgililer-gunu-ozel-menu/1-dilim-limonlu-cheesecake-meyve-tabagi-1-sise-thia-misket/496809/STK-000811",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000811.jpg"
+    },
+    {
+      "name": "2 ADET FETTUCCİNE ALFREDO + 2 ADET EFES MALT FIÇI",
+      "category": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "topCategory": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "price": "₺1.150,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sevgililer-gunu-ozel-menu/2-adet-fettuccine-alfredo-2-adet-efes-malt-fici/496809/STK-000813",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000813.jpg"
+    },
+    {
+      "name": "4 ADET EFES MALT FIÇI + SMOKY CHICKEN TACO",
+      "category": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "topCategory": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "price": "₺925,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sevgililer-gunu-ozel-menu/4-adet-efes-malt-fici-smoky-chicken-taco/496809/STK-000812",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000812.jpg"
+    },
+    {
+      "name": "AŞK'LA RAKI",
+      "category": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "topCategory": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "price": "₺1.325,00",
+      "description": "Bir Masa Kuruldu İki Kalp Duruldu, Kadeh Doldu Akşam Oldu",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sevgililer-gunu-ozel-menu/askla-raki/496809/STK-000846",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000846.jpg"
+    },
+    {
+      "name": "AZURE GARDEN + 2 ADET MILLER ŞİŞE",
+      "category": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "topCategory": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "price": "₺750,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sevgililer-gunu-ozel-menu/azure-garden-2-adet-miller-sise/496809/STK-000814",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000814.jpg"
+    },
+    {
+      "name": "EPIC CHARDONNAY + 5 PEYNİRLİ PİZZA + PEANUTS ŞARKÜTERİ",
+      "category": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "topCategory": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "price": "₺3.220,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sevgililer-gunu-ozel-menu/epic-chardonnay-5-peynirli-pizza-peanuts-sarkuteri/496809/STK-000845",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000845.jpg"
+    },
+    {
+      "name": "MARGHERITA PIZZA + 1 ŞİŞE RİTUEL ÇALKARASI - SHIRAZ",
+      "category": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "topCategory": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "price": "₺1.200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sevgililer-gunu-ozel-menu/margherita-pizza-1-sise-rituel-calkarasi-shiraz/496809/STK-000808",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000808.jpg"
+    },
+    {
+      "name": "SMOKY CHICKEN TACO + 2 KADEH MARGARITA KOKTEYL",
+      "category": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "topCategory": "SEVGİLİLER GÜNÜ ÖZEL MENÜ",
+      "price": "₺1.200,00",
+      "description": "",
+      "href": "https://peanuts.dinosoft.com.tr/menu/sevgililer-gunu-ozel-menu/smoky-chicken-taco-2-kadeh-margarita-kokteyl/496809/STK-000810",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000810.jpg"
+    },
+    {
       "name": "ABSOLUT VANILIA SHOT",
       "category": "SHOTLAR",
       "topCategory": "SHOTLAR",
@@ -1777,19 +1782,19 @@
       "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000122.jpg"
     },
     {
-      "name": "COCA COLA 330ML (TENEKE)",
+      "name": "COCA COLA 250ML (TENEKE)",
       "category": "SOĞUK İÇECEKLER",
       "topCategory": "SOĞUK İÇECEKLER",
       "price": "₺150,00",
       "description": "",
-      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/coca-cola-330ml-teneke/101260/STK-000844",
-      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000844.jpg"
+      "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/coca-cola-250ml-teneke/101260/STK-000839",
+      "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000839.jpg"
     },
     {
       "name": "COCA COLA ZERO 250ML (CAM ŞİŞE)",
       "category": "SOĞUK İÇECEKLER",
       "topCategory": "SOĞUK İÇECEKLER",
-      "price": "₺125,00",
+      "price": "₺150,00",
       "description": "",
       "href": "https://peanuts.dinosoft.com.tr/menu/soguk-icecekler/coca-cola-zero-250ml-cam-sise/101260/STK-000840",
       "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000840.jpg"
@@ -2536,7 +2541,7 @@
       "name": "DIMPLE GOLDEN SELECTION (70CL)",
       "category": "ÖZEL VİSKİLER",
       "topCategory": "VİSKİLER",
-      "price": "₺500,00",
+      "price": "₺5.000,00",
       "description": "",
       "href": "https://peanuts.dinosoft.com.tr/menu/ozel-viskiler/dimple-golden-selection-70cl/413848/STK-000751",
       "image": "https://peanuts.dinosoft.com.tr/images/Stock/STK-000751.jpg"
