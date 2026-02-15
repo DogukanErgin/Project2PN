@@ -44,18 +44,18 @@ export type WifiCopy = {
 
 const wifiCopyByLocale: Record<Locale, WifiCopy> = {
   tr: {
-    title: "Wi-Fi Sifresi",
+    title: "Wi-Fi Şifresi",
     subtitle:
-      "Ozel gunlerde guvenlik ve hizmet kalitesi icin sifremizi yeniliyoruz. Masadaki QR kod ile bu sayfaya her zaman ulasabilirsiniz.",
-    ssidLabel: "Ag Adi (SSID)",
-    passwordLabel: "Sifre",
-    helperLine: "Sifreyi # isaretiyle birlikte girin.",
-    copyLabel: "Sifreyi Kopyala",
-    copiedLabel: "Kopyalandi",
-    copyFailedLabel: "Kopyalama basarisiz. Elle kopyalayin.",
-    securityNote: "Not: Sifre donemsel olarak guncellenir.",
-    backLabel: "Ana sayfaya don",
-    menuLabel: "Menu bolumune git",
+      "Özel günlerde güvenlik ve hizmet kalitesi için şifremizi yeniliyoruz. Masadaki QR kod ile bu sayfaya her zaman ulaşabilirsiniz.",
+    ssidLabel: "Ağ Adı (SSID)",
+    passwordLabel: "Şifre",
+    helperLine: "Şifreyi # işaretiyle birlikte girin.",
+    copyLabel: "Şifreyi Kopyala",
+    copiedLabel: "Kopyalandı",
+    copyFailedLabel: "Kopyalama başarısız. Elle kopyalayın.",
+    securityNote: "Not: Şifre dönemsel olarak güncellenir.",
+    backLabel: "Ana sayfaya dön",
+    menuLabel: "Menü bölümüne git",
     languageLabel: "Dil"
   },
   en: {
